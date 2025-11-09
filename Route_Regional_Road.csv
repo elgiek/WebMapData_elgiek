@@ -1,0 +1,757 @@
+﻿OBJECTID,SEGMENTID,FULL_NAME,FROM_STREET,TO_STREET,LEGALSHIELD,LIFECYCLESTATUS,ROADNUMBER,ROADSECTION,MAINTBYSUMMER,MAINTBYWINTER,MAINTSECTION,MAINTCLASS,ROADTYPE,PREVSEGMENT,NEXTSEGMENT,NUMLANES,OWNEDBY,SHAPESTLength
+757,32-30,Ravenshoe Road,Leslie Street / The Queensway South,Woodbine Avenue,32,Active,32,30,NO,NO,NO,2,Regional Road,32-28,32-31,2,York Region,2064.08540686268
+758,73-28,16th Avenue,Bayview Avenue,Leslie Street,73,Active,73,28,SE,SE,SE,2,Regional Road,73-26,73-29,5,York Region,2015.9396178912
+759,81-48,Weirs Sideroad,Snoddon Road,Smith Boulevard,81,Active,81,48,NO,NO,NO,3,Regional Road,81-46,81-50,2,York Region,1430.2788072177
+760,71-21M,Centre Street Rapidway,Highway 407,Dufferin Street,71,Active,71,21,SW,SW,SW,1,Rapidway,17-19M,17-22M,2,Metrolinx,479.805861815008
+761,11-15,King Road,Weston Road,Highway 400,11,Active,11,15,SW,SW,SW,2,Regional Road,11-14,11-16,3,York Region,999.599814810509
+762,73-08,Rutherford Road,Highway 427,Highway 27,73,Active,73,8,SW,SW,SW,2,Regional Road,73-07,73-10,2,York Region,1425.59182229052
+763,07-11,Highway 7,Kipling Avenue,Islington Avenue,7,Active,7,11,SW,SW,SW,1,Regional Road,07-10,07-12,5,York Region,677.471092715916
+764,12-34,Leslie Street,Farr Avenue / Mount Albert Road,Doane Road / Jeffery Crescent,12,Active,12,34,NO,NO,NO,2,Regional Road,12-32,12-36,2,York Region,1732.27964839141
+765,95-10,Steeles Avenue West,Highway 27,Kipling Avenue,95,Active,95,10,,,SW,0,Regional Road,95-08,95-11,4,Toronto,2031.03019587284
+766,38-16,Bathurst Street,King Vaughan Road / Milos Road,King Road,38,Active,38,16,SW,SW,SW,2,Regional Road,38-14,38-18,5,York Region,2040.1924534727
+767,65-08,Warden Avenue,16th Avenue,Major Mackenzie Drive East,65,Active,65,8,SE,SE,SE,2,Regional Road,65-06,65-10,2,York Region,2073.15742008452
+768,25-18,Major Mackenzie Drive West,Jane Street,Keele Street,25,Active,25,18,SW,SW,SW,1,Regional Road,25-16,25-20,4,York Region,2042.36376570516
+769,12-46,The Queensway South,Glenwoods Avenue,Metro Road South / Morton Avenue,12,Active,12,46,NO,NO,NO,2,Regional Road,12-44,End,4,York Region,2435.527872971
+770,56-01,Weston Road,Steeles Avenue West,Highway 407,56,Active,56,1,SW,SW,SW,2,Regional Road,Start,56-02,5,York Region,1294.88871454037
+771,53-16,Dufferin Street,King Vaughan Road,King Road,53,Active,53,16,SW,SW,SW,2,Regional Road,53-14,53-18,2,York Region,2064.40194190746
+772,06-91,Bowes Road West - Keele Street Ramp,Bowes Road West,Keele Street,6,Active,6,91,SW,SW,SW,2,Channelized Right Turn Lane,Start,End,1,York Region,179.610095459775
+773,13-34,Mount Albert Road,Warden Avenue,Kennedy Road,13,Active,13,34,NO,NO,NO,2,Regional Road,13-32,13-36,2,York Region,2040.30285141458
+774,95-29,Steeles Avenue East,Don Mills Road,Highway 404,95,Active,95,29,,,SE,0,Regional Road,95-28,95-30,4,Toronto,721.683391762523
+775,40-24,Bloomington Road,15th Sideroad / Bathurst Street,Yonge Street,40,Active,40,24,CE,CE,CE,2,Regional Road,40-22,40-26,2,York Region,2233.6037669642
+776,34-04,Bayview Avenue,Highway 407,Highway 7,34,Active,34,4,SE,SE,SE,2,Regional Road,34-03,34-06,6,York Region,218.525779884128
+777,08-16,Woodbine Avenue,Stouffville Road,Bethesda Sideroad,8,Active,8,16,CE,CE,CE,2,Regional Road,08-14,08-18,4,York Region,2107.69714712073
+778,49-18,Teston Road,Jane Street,Keele Street,49,Active,49,18,SW,SW,SW,3,Regional Road,49-16,49-20,2,York Region,2039.75544953556
+779,25-14,Major Mackenzie Drive West,Pine Valley Drive,Weston Road,25,Active,25,14,SW,SW,SW,2,Regional Road,25-12,25-15,2,York Region,2144.87741121769
+780,40-38,Bloomington Road,McCowan Road,Highway 48,40,Active,40,38,CE,CE,CE,2,Regional Road,40-36,40-40,2,York Region,2464.52131332694
+781,03-08,Kennedy Road,16th Avenue,Major Mackenzie Drive East,3,Active,3,8,SE,SE,SE,2,Regional Road,03-06,03-10,5,York Region,2048.48956488008
+782,31-40,Davis Drive,Centre Street,Ninth Line,31,Active,31,40,CE,CE,CE,2,Regional Road,31-39,31-42,2,York Region,1066.26016157301
+783,38-02,Bathurst Street,Steeles Avenue West,Centre Street,38,Active,38,2,SW,SW,SW,2,Regional Road,Start,38-03,6,York Region,2075.51397297929
+784,30-12,York/Durham Line,Elgin Mills Road East,19th Avenue,30,Active,30,12,SE,SE,SE,2,Regional Road,30-10,30-14,2,York Region,2103.03750859622
+785,07-15W,Highway 7 Westbound,Highway 400,Weston Road,7,Active,7,15,SW,SW,SW,1,Regional Road,07-16W,07-14W,3,York Region,721.962820393425
+786,77-29,Queensville Sideroad,Leslie Street,Highway 404,77,Active,77,29,NO,NO,NO,3,Regional Road,77-28,77-30,2,York Region,1079.49676075398
+787,65-40,Warden Avenue,Holborn Road,Boag Road,65,Active,65,40,NO,NO,NO,3,Regional Road,65-38,65-42,2,York Region,2042.77248158802
+788,82-44,Victoria Road,Ravenshoe Road,Old Shiloh Road,82,Active,82,44,NO,NO,NO,3,Regional Road,Start,82-56,2,York Region,1466.21545189614
+789,55-02,Jane Street,407,Highway 7,55,Active,55,2,SW,SW,SW,2,Regional Road,55-01,55-04,6,York Region,904.462076446521
+790,01-18,Yonge Street,King Road,Bloomington Road,1,Active,1,18,CE,SE,CE,2,Regional Road,01-16,01-20,5,York Region,2068.72471288164
+791,07-28M,Highway 7 Rapidway,Bayview Avenue,Leslie Street,,Active,7,28,SE,SE,SE,1,Rapidway,07-26,07-29M,2,Metrolinx,2024.45405448847
+792,88-36,Baseline Road,Kennedy Road,McCowan Road,8A,Active,88,36,NO,NO,NO,2,Regional Road,88-34,88-38,2,York Region,2054.02769867985
+793,27-07,Highway 27,Rutherford Road,Major Mackenzie Drive West,27,Active,27,7,SW,SW,SW,2,Regional Road,27-06,27-08,5,York Region,1531.73085655672
+794,71-19W,Centre Street Westbound,Highway 407,Highway 7,71,Active,71,19,SW,SW,SW,,Regional Road,71-21W,End,2,Province of Ontario,190.135738933367
+795,07-15E,Highway 7 Eastbound,Weston Road,Highway 400,7,Active,7,15,SW,SW,SW,1,Regional Road,07-14E,07-16E,3,York Region,714.387682237927
+796,51-31,Yonge Street,Highway 11 / Morning Sideroad,Holland Landing Road / Old Yonge Street,51,Active,51,31,NO,NO,NO,2,Regional Road,Start,51-32,2,York Region,1252.04161401798
+797,38-06N,Bathurst Street Northbound,Richmond Hill-Vaughan Border,Carrville Road / Rutherford Road,38,Active,38,6,SW,SW,SW,1,Regional Road,38-04N,38-08,2,York Region,2094.26245190966
+798,56-20,Weston Road,15th Sideroad,16th Sideroad,56,Active,56,20,CE,CE,CE,3,Regional Road,56-18,56-22,2,York Region,2025.32157716255
+799,81-46,Weirs Sideroad,Old Shiloh Road,Snoddon Road,81,Active,81,46,NO,NO,NO,3,Regional Road,81-44,81-48,2,York Region,1501.63096592939
+800,34-34,2nd Concession Road,Mount Albert Road,Doane Road,34,Active,34,34,NO,NO,NO,3,Regional Road,34-32,34-36,2,York Region,1664.76481202297
+801,65-16,Warden Avenue,Stouffville Road,Bethesda Sideroad,65,Active,65,16,SE,SE,SE,3,Regional Road,65-14,65-18,2,York Region,2250.8794012256
+802,56-26,Weston Road,Lloydtown/Aurora Road,19th Sideroad,56,Active,56,26,CE,CE,CE,3,Regional Road,56-25,56-28,2,York Region,1230.1028817438
+803,31-20,Davis Drive West,Keele Street,Dufferin Street,31,Active,31,20,CE,CE,CE,1,Regional Road,31-18,31-21,5,York Region,2193.04793364931
+804,71-40,14th Avenue,Markham Road,Ninth Line,71,Active,71,40,SE,SE,SE,3,Regional Road,71-38,71-41,4,York Region,2140.35210368186
+805,69-14,Ninth Line,19th Avenue,Fairview Avenue / Main Street,69,Active,69,14,SE,SE,SE,2,Regional Road,69-12,69-16,2,York Region,2054.77215712351
+806,06-02,Keele Street,Highway 407,Highway 7,6,Active,6,2,SW,SW,SW,2,Regional Road,06-01,06-04,6,York Region,892.378426358926
+807,13-24,Bradford Street,Holland Landing Road,Thompson Drive / Yonge Street,13,Active,13,24,NO,NO,NO,4,Regional Road,Start,13-26,2,York Region,599.356787501592
+808,65-02,Warden Avenue,Denison Street,14th Avenue / Alden Road,65,Active,65,2,SE,SE,SE,2,Regional Road,65-01,65-03,5,York Region,1154.62832990369
+809,12-03,Leslie Street,Don Mills Road / John Street,Highway 407,12,Active,12,3,SE,SE,SE,2,Regional Road,12-02,12-04,5,York Region,2019.96120562739
+810,24-12,Highway 50,Nashville Road,Albion Vaughan Road,24,Active,24,12,,,SW,,Regional Road,,,4,Part Owner,1467.15996138895
+811,03-28,Kennedy Road,Vivian Road,Davis Drive,3,Active,3,28,CE,CE,CE,3,Regional Road,03-26,03-30,2,York Region,2072.62041091153
+812,38-34,Bathurst Street,Morning Sideroad,Highway 11,38,Active,38,34,NO,CE,NO,4,Regional Road,38-32,38-35,2,York Region,3055.27896493595
+813,49-29,Elgin Mills Road East,Leslie Street,Highway 404,49,Active,49,29,SE,SE,SE,2,Regional Road,49-28,49-30,5,York Region,980.836732442186
+814,33-30,Glenwoods Avenue,The Queensway South,Woodbine Avenue,33,Active,33,30,NO,NO,NO,3,Regional Road,Start,End,2,York Region,1719.8747969054
+815,12-38,Leslie Street,Proposed Bradford Bypass,Holborn Road,12,Active,12,38,NO,NO,NO,2,Regional Road,12-37,12-40,2,York Region,494.150998648344
+816,16-94,Lloydtown/Aurora Road,Lloydtown/Aurora Road,Lloydtown/Aurora Road,16,Active,16,94,CE,CE,CE,4,Regional Road,16-12,16-12,2,York Region,394.828045639291
+817,57-10,Pine Valley Drive,Major Mackenzie Drive West,Teston Road,57,Active,57,10,SW,SW,SW,4,Regional Road,57-08,End,2,York Region,2074.68659215833
+818,06-08,Keele Street,Rutherford Road,Major Mackenzie Drive West,6,Active,6,8,SW,SW,SW,3,Regional Road,06-06,06-10,4,York Region,2075.43453859233
+819,01-10M,Yonge Street Rapidway,Major Mackenzie Drive East,Elgin Mills Road East,,Active,1,10,,SE,SE,1,Rapidway,01-08M,01-12M,,Metrolinx,2066.30017762204
+820,07-14E,Highway 7 Eastbound,Pine Valley Drive,Weston Road,7,Active,7,14,SW,SW,SW,1,Regional Road,07-12E,07-15E,3,York Region,2172.93762855462
+821,34-12,Bayview Avenue,Elgin Mills Road East,19th Avenue,34,Active,34,12,SE,CE,SE,2,Regional Road,34-10,34-14,3,York Region,1976.21510096419
+822,49-08,Nashville Road,Kleins Crescent,Highway 27,49,Active,49,8,SW,SW,SW,3,Regional Road,49-06,49-14,2,York Region,2633.38449181689
+823,07-91M,Highway 7 - Bathurst Street Interchange Rapidway,Highway 7,Bathurst Street,7,Active,7,91,SW,SW,SW,1,Rapidway,Start,End,2,York Region,472.584173003619
+824,07-26M,Highway 7 Rapidway,Yonge Street,Bayview Avenue,7,Active,7,26,SE,SE,SE,1,Rapidway,07-24M,07-28M,1,York Region,1884.1519536338
+825,95-26,Steeles Avenue East,Yonge Street,Bayview Avenue,95,Active,95,26,,,SE,0,Regional Road,95-24,95-28,4,Toronto,1997.46377756943
+826,32-54,Ravenshoe Road,Weirs Sideroad,Victoria Road,32,Active,32,54,NO,NO,NO,3,Regional Road,32-52,32-56,2,York Region,1640.14964837787
+827,25-29,Major Mackenzie Drive East,Leslie Street,Highway 404,25,Active,25,29,SE,SE,SE,2,Regional Road,25-28,25-30,4,York Region,992.541986398042
+828,08-99,Woodbine Avenue - Aurora Road Ramp,Woodbine Avenue,Aurora Road,8,Active,8,99,CE,CE,CE,2,Channelized Right Turn Lane,Start,End,1,York Region,193.942820264189
+829,08-04,Woodbine Avenue,Highway 407,Highway 7,8,Active,8,4,SE,SE,SE,2,Regional Road,08-03,08-06,7,York Region,1002.91277172428
+830,65-26,Warden Avenue,St Johns Sideroad,Vivian Road,65,Active,65,26,CE,CE,CE,3,Regional Road,65-24,65-28,2,York Region,2070.52518504557
+831,01-08S,Yonge Street Southbound,Major Mackenzie Drive East / Major Mackenzie Drive West,16th Avenue / Carrville Road,1,Active,1,8,SE,SE,SE,2,Regional Road,01-12S,01-06S,2,York Region,2113.05355552907
+832,14-18,King Vaughan Road,Jane Street,Keele Street,14,Active,14,18,SW,SW,SW,3,Regional Road,14-16,14-20,2,York Region,2220.7504809509
+833,08-44,Woodbine Avenue,Ravenshoe Road,Glenwoods Avenue,8,Active,8,44,NO,NO,NO,2,Regional Road,08-42,08-45,4,York Region,2046.56864205463
+834,73-14,Rutherford Road,Pine Valley Drive,Weston Road,73,Active,73,14,SW,SW,SW,2,Regional Road,73-12,73-15,5,York Region,2159.85943817327
+835,34-10,Bayview Avenue,Major Mackenzie Drive East,Elgin Mills Road East,34,Active,34,10,SE,SE,SE,2,Regional Road,34-08,34-12,5,York Region,1981.17867757672
+836,03-02,Kennedy Road,Denison Street,14th Avenue,3,Active,3,2,SE,SE,SE,2,Regional Road,03-01,03-03,5,York Region,1030.65131530657
+837,08-48,Woodbine Avenue,Morton Avenue / Pollock Road,Old Homestead Road,8,Active,8,48,NO,NO,NO,2,Regional Road,08-46,08-50,2,York Region,2067.60250187018
+838,95-38,Steeles Avenue East,McCowan Road,Markham Road,95,Active,95,38,,,SE,0,Regional Road,95-36,95-40,4,Toronto,2032.3781346265
+839,19-28,Green Lane East,2nd Concession Road / Main Street North,Leslie Street,19,Active,19,28,NO,CE,NO,2,Regional Road,19-26,19-29,4,York Region,2016.2212676619
+840,03-42,Kennedy Road,Boag Road,Ravenshoe Road,3,Active,3,42,NO,NO,NO,3,Regional Road,03-40,03-44,2,York Region,2102.18945587701
+841,78-48,Metro Road South,Morton Avenue / The Queensway South,Old Homestead Road,78,Active,78,48,NO,NO,NO,3,Regional Road,Start,78-50,2,York Region,2216.8203623378
+842,53-04,Dufferin Street,Highway 407,Highway 7,53,Active,53,4,SW,SW,SW,2,Regional Road,53-03,53-05,7,York Region,337.044515164936
+843,27-20,Highway 27,15th Sideroad,16th Sideroad,27,Active,27,20,CE,CE,CE,2,Regional Road,27-18,27-22,2,York Region,2073.51204664654
+844,01-12M,Yonge Street Rapidway,Elgin Mills Road East / Elgin Mills Road West,19th Avenue / Gamble Road,1,Active,1,12,SE,SE,SE,1,Rapidway,01-08M,01-14M,2,York Region,2058.26922298383
+845,03-54,Kennedy Road,Baseline Road,Metro Road North,3,Active,3,54,NO,NO,NO,3,Regional Road,03-52,End,2,York Region,2205.04922913717
+846,06-26,Keele Street,Lloydtown/Aurora Road,19th Sideroad,6,Active,6,26,CE,CE,CE,3,Regional Road,06-24,06-28,2,York Region,2199.09600282443
+847,14-22,King Vaughan Road,Dufferin Street,Bathurst Street,14,Active,14,22,SW,SW,SW,3,Regional Road,14-20,14-24,2,York Region,2016.70717935362
+848,53-10,Dufferin Street,Major Mackenzie Drive West,Teston Road,53,Active,53,10,SW,SW,SW,2,Regional Road,53-08,53-12,2,York Region,2043.61996933412
+849,31-24,Davis Drive West,Bathurst Street,Davis Drive / Yonge Street,31,Active,31,24,CE,CE,CE,2,Regional Road,31-22,31-25,4,York Region,2168.38942237403
+850,34-32,2nd Concession Road,Green Lane East / Main Street North,Mount Albert Road,34,Active,34,32,NO,NO,NO,3,Regional Road,34-28,34-34,2,York Region,2495.2488883117
+851,55-14,Jane Street,Kirby Road,King Vaughan Road,55,Active,55,14,SW,SW,SW,3,Regional Road,55-12,55-16,2,York Region,2083.62784899138
+852,69-20,Ninth Line,Bloomington Road,Hillsdale Drive,69,Active,69,20,CE,CE,CE,3,Regional Road,69-18,69-22,2,York Region,2063.40159023489
+853,08-14,Woodbine Avenue,19th Avenue,Stouffville Road,8,Active,8,14,SE,SE,SE,3,Regional Road,08-12,08-16,4,York Region,2223.15060086772
+854,65-44,Warden Avenue,Ravenshoe Road,Glenwoods Avenue,65,Active,65,44,NO,NO,NO,3,Regional Road,65-42,65-46,2,York Region,2265.57389484343
+855,72-21,Langstaff Road,Dufferin Street,Highway 7,72,Active,72,21,SW,SW,SW,2,Regional Road,72-20,End,5,York Region,625.82896530433
+856,55-04,Jane Street,Highway 7,Langstaff Road,55,Active,55,4,SW,SW,SW,2,Regional Road,55-02,55-06,5,York Region,2064.05223268809
+857,01-06S,Yonge Street Southbound,16th Avenue / Carrville Road,Highway 7,1,Active,1,6,SE,SE,SE,2,Regional Road,01-08S,01-04,2,York Region,1976.77513951919
+858,08-10,Woodbine Avenue,Major Mackenzie Drive East,Elgin Mills Road East,8,Active,8,10,SE,SE,SE,2,Regional Road,08-08,08-12,4,York Region,2487.22946901914
+859,08-54,Woodbine Avenue,Deer Park Road,Metro Road North,8,Active,8,54,NO,NO,NO,3,Regional Road,08-52,08-55,2,York Region,2142.84358091394
+860,14-26,Stouffville Road,Yonge Street,Bayview Avenue,14,Active,14,26,SE,SE,SE,3,Regional Road,Start,14-28,2,York Region,1830.41009765407
+861,79-30,Old Homestead Road,The Queensway North,Woodbine Avenue,79,Active,79,30,NO,NO,NO,3,Regional Road,79-29,79-32,2,York Region,1142.60026072791
+862,53-12,Dufferin Street,Teston Road,Kirby Road,53,Active,53,12,SW,SW,SW,2,Regional Road,53-10,53-14,2,York Region,2034.43452848593
+863,12-12,Leslie Street,Elgin Mills Road East,19th Avenue,12,Active,12,12,SE,SE,SE,2,Regional Road,12-10,12-14,4,York Region,2068.17926441373
+864,01-10S,Yonge Street Southbound,Elgin Mills Road East,Major Mackenzie Drive East,1,Active,1,10,SE,SE,SE,2,Regional Road,01-08S,01-12S,2,York Region,801.667242320852
+865,55-01,Jane Street,Steeles Avenue West,Exit 67,55,Active,55,1,SW,SW,SW,2,Regional Road,Start,55-02,6,York Region,1224.98673565954
+866,07-16M,Highway 7 Rapidway,Highway 400,Jane Street,7,Active,7,16,SW,SW,SW,1,Rapidway,07-15,07-18M,2,Metrolinx,1240.98698318224
+867,95-22,Steeles Avenue West,Dufferin Street,Bathurst Street,95,Active,95,22,,,SW,0,Regional Road,95-20,95-24,6,Toronto,2042.19123417254
+868,69-04,Ninth Line,Highway 407,Highway 7,69,Active,69,4,SE,SE,SE,2,Regional Road,69-03,69-06,4,York Region,944.825019939383
+869,18-46,Park Road,Old Shiloh Road,Frog Street,18,Active,18,46,NO,NO,NO,3,Regional Road,18-44,18-48,2,York Region,1518.59359491563
+870,73-41,16th Avenue,Ninth Line,Cornell Centre Boulevard,73,Active,73,41,SE,SE,SE,2,Regional Road,73-40,73-42,4,York Region,1277.90962471212
+871,26-29,St Johns Sideroad,Leslie Street,Highway 404,26,Active,26,29,CE,CE,CE,4,Regional Road,26-28,26-30,2,York Region,1028.37001431816
+872,13-32,Mount Albert Road,Woodbine Avenue,Warden Avenue,13,Active,13,32,NO,NO,NO,3,Regional Road,13-30,13-34,2,York Region,2071.37842239192
+873,65-42,Warden Avenue,Boag Road,Ravenshoe Road,65,Active,65,42,NO,NO,NO,3,Regional Road,65-40,65-44,2,York Region,1838.23081107064
+874,25-12,Major Mackenzie Drive West,Islington Avenue,Pine Valley Drive,25,Active,25,12,SW,SW,SW,2,Regional Road,25-10,25-14,6,York Region,2646.51277897952
+875,38-36,Bathurst Street,Holland Landing Road,Queensville Sideroad West,38,Active,38,36,NO,NO,NO,3,Regional Road,38-35,End,2,York Region,1768.47734489399
+876,78-54,Metro Road North,Deer Park Road,Woodbine Avenue,78,Active,78,54,NO,NO,NO,3,Regional Road,78-52,78-56,2,York Region,3955.96715561613
+877,27-22,Highway 27,16th Sideroad,17th Sideroad,27,Active,27,22,CE,CE,CE,2,Regional Road,27-20,27-24,2,York Region,2100.36492015433
+878,08-45,Woodbine Avenue,Glenwoods Avenue,Glenwoods Avenue,8,Active,8,45,NO,NO,NO,2,Regional Road,08-44,08-46,4,York Region,213.006826680293
+879,95-14,Steeles Avenue West,Pine Valley Drive,Weston Road,95,Active,95,14,,,SW,0,Regional Road,95-12,95-15,4,Toronto,1525.81363433894
+880,95-30,Steeles Avenue East,Highway 404,Woodbine Avenue,95,Active,95,30,,,SE,0,Regional Road,95-29,95-32,6,Toronto,307.550445454358
+881,32-40,Ravenshoe Road,Highway 48,East Townline / Miles Road,32,Active,32,40,NO,NO,NO,2,Regional Road,32-38,32-44,2,York Region,748.758305036188
+882,95-42,Steeles Avenue East,Ninth Line,Ressor Road,95,Active,95,42,,,SE,0,Regional Road,95-40,95-44,2,Toronto,2240.08568388431
+883,67-32,McCowan Road,Herald Road,Mount Albert Road,67,Active,67,32,NO,NO,NO,4,Regional Road,67-30,67-34,2,York Region,2039.57125310355
+884,12-14,Leslie Street,19th Avenue,Stouffville Road,12,Active,12,14,SE,SE,SE,2,Regional Road,12-12,12-16,2,York Region,2207.76145268525
+885,01-28S,Yonge Street Southbound,Davis Drive / Davis Drive West,Eagle Street / Eagle Street West,1,Active,1,28,CE,CE,CE,2,Regional Road,01-30,01-27S,2,York Region,1080.05287067511
+886,12-04,Leslie Street,Highway 407,Highway 7,12,Active,12,4,SE,SE,SE,2,Regional Road,12-03,12-06,5,York Region,810.470227833511
+887,01-27N,Yonge Street Northbound,Mulock Drive,Eagle Street / Eagle Street West,1,Active,1,27,CE,CE,CE,2,Regional Road,01-26N,01-28N,2,York Region,1063.71085280787
+888,15-22,Wellington Street West,Dufferin Street,Bathurst Street,15,Active,15,22,CE,CE,CE,2,Regional Road,Start,15-24,2,York Region,1967.82774305673
+889,38-04S,Bathurst Street Southbound,Richmond Hill-Vaughan Border,Highway 407,38,Active,38,4,SW,SW,SW,1,Regional Road,38-06S,38-03S,3,York Region,214.910906160186
+890,15-28,Wellington Street East,Bayview Avenue,Leslie Street,15,Active,15,28,CE,CE,CE,2,Regional Road,15-26,15-29,4,York Region,2105.44837448127
+891,03-32,Kennedy Road,Herald Road,Mount Albert Road,3,Active,3,32,NO,NO,NO,4,Regional Road,03-30,03-34,2,York Region,2159.59790183306
+892,65-32,Warden Avenue,Herald Road,Mount Albert Road,65,Active,65,32,NO,NO,NO,3,Regional Road,65-30,65-34,2,York Region,2054.57148655197
+893,65-52,Warden Avenue,Boyers Sideroad,Baseline Road,65,Active,65,52,NO,NO,NO,3,Regional Road,65-50,End,2,York Region,928.966980592612
+894,08-06,Woodbine Avenue,Highway 7,16th Avenue,8,Active,8,6,SE,SE,SE,2,Regional Road,08-04,08-08,5,York Region,2036.98473319613
+895,49-16,Teston Road,Highway 400,Jane Street,49,Active,49,16,SW,SW,SW,3,Regional Road,49-15,49-18,2,York Region,1037.62632262931
+896,08-30,Woodbine Avenue,Davis Drive,Green Lane East / Herald Road,8,Active,8,30,NO,NO,NO,2,Regional Road,08-28,08-32,4,York Region,2051.05084096302
+897,27-09,Highway 27,Humber Bridge Trail,Nashville Road,27,Active,27,9,SW,SW,SW,2,Regional Road,27-08,27-10,2,York Region,1565.62873905057
+898,14-30,Stouffville Road,Highway 404,Woodbine Avenue,14,Active,14,30,SE,SE,SE,2,Regional Road,14-29,14-32,5,York Region,877.251225249052
+899,67-04,McCowan Road,Highway 407,Highway 7,67,Active,67,4,SE,SE,SE,1,Regional Road,67-03,67-06,5,York Region,1232.81984158912
+900,67-18,McCowan Road,Bethesda Sideroad,Bloomington Road,67,Active,67,18,SE,SE,SE,3,Regional Road,67-16,67-30,2,York Region,2057.14844461872
+901,78-62,Metro Road North,Salvation Army Road,Dalton Road,78,Active,78,62,NO,NO,NO,3,Regional Road,78-60,End,2,York Region,1839.53820015531
+902,34-36,2nd Concession Road,Doane Road,Queensville Sideroad,34,Active,34,36,NO,NO,NO,3,Regional Road,34-34,End,2,York Region,2031.14507375919
+903,14-92,Stouffville Road - Woodbine Road Ramp,Stouffville Road,Woodbine Avenue,14,Active,14,92,CE,CE,CE,2,Channelized Right Turn Lane,Start,End,1,York Region,298.867960416081
+904,16-92,Lloydtown/Aurora Road - Dufferin Street Ramp,Lloydtown/Aurora Road,Dufferin Street,16,Active,16,92,CE,CE,CE,3,Channelized Right Turn Lane,Start,End,1,York Region,319.615850398997
+905,12-24,Leslie Street,Wellington Street East,St Johns Sideroad,12,Active,12,24,CE,CE,CE,2,Regional Road,12-22,12-26,2,York Region,2059.07505854172
+906,12-37,Leslie Street,Queensville Sideroad,Proposed Bradford Bypass,12,Active,12,37,NO,NO,NO,2,Regional Road,12-36,12-38,2,York Region,1556.33137612977
+907,27-26,Highway 27,18th Sideroad,Lloydtown/Aurora Road,27,Active,27,26,CE,CE,CE,2,Regional Road,27-24,27-28,2,York Region,1903.63139033561
+908,03-22,Kennedy Road,Vandorf Sideroad,Aurora Road,3,Active,3,22,CE,CE,CE,3,Regional Road,03-20,03-24,2,York Region,2072.65697289228
+909,77-24,Queensville Sideroad West,Bathurst Street,Queensville Sideroad / Yonge Street,77,Active,77,24,NO,NO,NO,3,Regional Road,Start,77-26,2,York Region,2177.91153612869
+910,01-12S,Yonge Street Southbound,19th Avenue / Gamble Road,Elgin Mills Road East / Elgin Mills Road West,1,Active,1,12,SE,SE,SE,2,Regional Road,01-14S,01-10S,2,York Region,2099.91180260583
+911,06-14,Keele Street,Kirby Road,King Vaughan Road,6,Active,6,14,SW,SW,SW,2,Regional Road,06-12,06-16,4,York Region,2131.85873047278
+912,25-26,Major Mackenzie Drive East,Major Mackenzie Drive West / Yonge Street,Bayview Avenue,25,Active,25,26,SE,SE,SE,2,Regional Road,25-24,25-28,4,York Region,1829.57757754844
+913,67-01,McCowan Road,Steeles Avenue East,Denison Street,67,Active,67,1,SE,SE,SE,1,Regional Road,Start,67-02,6,York Region,1185.21243614882
+914,82-91,Cedartam Street - Victoria Road Ramp,Cedartam Street,Victoria Road,82,Active,82,91,NO,NO,NO,4,Channelized Right Turn Lane,Start,End,2,York Region,57.4198368851304
+915,07-32W,Highway 7 Westbound,Woodbine Avenue,Warden Avenue,7,Active,7,32,SE,SE,SE,1,Regional Road,07-30W,07-34,3,York Region,2091.61373053046
+916,21-54,Pefferlaw Road,Highway 404 Extension,Highway 48 / Moorings Road,21,Active,21,54,NO,NO,NO,4,Regional Road,21-53,End,2,York Region,90.9326794948672
+917,56-04,Weston Road,Highway 7,Langstaff Road,56,Active,56,4,SW,SW,SW,2,Regional Road,56-02,56-06,5,York Region,2089.99395326597
+918,16-14,Lloydtown/Aurora Road,7th Concession,Weston Road,16,Active,16,14,CE,CE,CE,3,Regional Road,16-12,16-15,2,York Region,2188.52119520746
+919,78-56,Metro Road North,Woodbine Avenue,Civic Centre Road,78,Active,78,56,NO,NO,NO,3,Regional Road,78-54,78-58,2,York Region,2076.96535103951
+920,49-30,Elgin Mills Road East,Highway 404,Woodbine Avenue,49,Active,49,30,SE,SE,SE,2,Regional Road,49-29,End,4,York Region,524.052907977001
+921,25-16,Major Mackenzie Drive West,Highway 400,Jane Street,25,Active,25,16,SW,SW,SW,1,Regional Road,25-15,25-18,4,York Region,1011.4857280768
+922,31-42,Davis Drive,Ninth Line,East Townline / York/Durham Line,31,Active,31,42,CE,CE,CE,2,Regional Road,31-40,End,2,York Region,746.774607324179
+923,56-02,Weston Road,Highway 407,Highway 7,56,Active,56,2,SW,SW,SW,2,Regional Road,56-01,56-04,6,York Region,903.335684976582
+924,53-20,Dufferin Street,15th Sideroad,16th Sideroad,53,Active,53,20,CE,CE,CE,2,Regional Road,53-18,53-22,2,York Region,2061.08457055204
+925,95-20,Steeles Avenue West,Keele Street,Dufferin Street,95,Active,95,20,,,SW,0,Regional Road,95-18,95-22,6,Toronto,2065.28461562552
+926,72-07,Langstaff Road,Huntington Road,Highway 427,72,Active,72,7,SW,SW,SW,2,Regional Road,72-06,72-08,2,York Region,1135.15619805888
+927,29-26,19th Avenue,Gamble Road / Yonge Street,Bayview Avenue,29,Active,29,26,SE,SE,SE,3,Regional Road,29-24,29-28,4,York Region,1801.00502380943
+928,88-38,Baseline Road,McCowan Road,Dalton Road,8A,Active,88,38,NO,NO,NO,2,Regional Road,88-36,End,2,York Region,1999.06231490007
+929,55-22,Jane Street,16th Sideroad,17th Sideroad,55,Active,55,22,CE,CE,CE,3,Regional Road,55-20,55-24,2,York Region,2049.67674448207
+930,65-48,Warden Avenue,Highway 404 Extension,Old Homestead Road,65,Active,65,48,NO,NO,NO,3,Regional Road,65-47,65-50,2,York Region,1074.89860376171
+931,03-10,Kennedy Road,Major Mackenzie Drive East,Elgin Mills Road East,3,Active,3,10,SE,SE,SE,3,Regional Road,03-08,03-12,2,York Region,2038.6403807137
+932,65-91,Warden Avenue - Old Homestead Road Ramp,Warden Aveenue,Old Homestead Road,65,Active,65,91,NO,NO,NO,3,Channelized Right Turn Lane,Start,End,1,York Region,110.664745268131
+933,25-10,Major Mackenzie Drive West,Highway 27,Islington Avenue,25,Active,25,10,SW,SW,SW,2,Regional Road,25-08,25-12,2,York Region,1483.95464129859
+934,80-44,Black River Road,Dalton Road,Park Road,80,Active,80,44,NO,NO,NO,3,Regional Road,Start,End,2,York Region,3179.9059663838
+935,95-16,Steeles Avenue West,Highway 400,Jane Street,95,Active,95,16,,,SW,0,Regional Road,95-15,95-18,4,Toronto,1109.98856590464
+936,08-55,Woodbine Avenue,Metro Road North,Lake Drive East / Lake Drive North,8,Active,8,55,NO,NO,NO,5,Regional Road,08-54,End,2,York Region,267.149565718797
+937,26-24,St Johns Sideroad,18th Sideroad / Bathurst Street,Yonge Street,26,Active,26,24,CE,CE,CE,2,Regional Road,26-22,26-26,2,York Region,2209.93809420873
+938,07-40,Highway 7,Main Street Markham,Ninth Line,7,Active,7,40,SE,SE,SE,2,Regional Road,07-38,07-41,4,York Region,2101.90011027441
+939,15-18,17th Sideroad,Jane Street,Keele Street,15,Active,15,18,CE,CE,CE,4,Regional Road,END,15-20,2,York Region,2019.8479393416
+940,07-28E,Highway 7 Eastbound,Bayview Avenue,Leslie Street,7,Active,7,28,SE,SE,SE,1,Regional Road,07-26,07-29E,3,York Region,2061.39546205064
+941,27-12,Highway 27,Islington Avenue,Kirby Road,27,Active,27,12,SW,SW,SW,2,Regional Road,27-10,27-14,2,York Region,2057.23101339938
+942,18-52,Park Road,Old Homestead Road,Highway 404 Extension,18,Active,18,52,NO,NO,NO,3,Regional Road,18-50,18-54,2,York Region,2098.88438046614
+943,38-10,Bathurst Street,Major Mackenzie Drive West,Elgin Mills Road West / Teston Road,38,Active,38,10,SW,SW,SW,2,Regional Road,38-08,38-12,5,York Region,2057.25157996743
+944,31-34,Davis Drive,Warden Avenue,Kennedy Road,31,Active,31,34,CE,CE,CE,2,Regional Road,31-32,31-36,2,York Region,2024.50702971614
+945,07-91S,Highway 7 - Bathurst Street Interchange Southbound,Bathurst Street,Highway 7,7,Active,7,91,SW,SW,SW,1,Regional Road,Start,End,2,York Region,466.560544307543
+946,07-10,Highway 7,Highway 27,Kipling Avenue,7,Active,7,10,SW,SW,SW,1,Regional Road,07-08,07-11,7,York Region,2049.15717507586
+947,25-08,Major Mackenzie Drive West,Huntington Road,Highway 27,25,Active,25,8,SW,SW,SW,2,Regional Road,25-06,25-10,2,York Region,2419.67056255888
+948,03-16,Kennedy Road,Stouffville Road,Bethesda Sideroad,3,Active,3,16,SE,SE,SE,3,Regional Road,03-14,03-18,2,York Region,2105.24246342719
+949,29-28,19th Avenue,Bayview Avenue,Leslie Street,29,Active,29,28,SE,SE,SE,3,Regional Road,29-26,End,2,York Region,2033.07667562756
+950,13-36,Mount Albert Road,Kennedy Road,McCowan Road,13,Active,13,36,NO,NO,NO,2,Regional Road,13-34,13-38,2,York Region,2012.59004265864
+951,67-06,McCowan Road,Highway 7,16th Avenue,67,Active,67,6,SE,SE,SE,2,Regional Road,67-04,67-08,6,York Region,2037.45400739239
+952,17-02,Islington Avenue,Highway 407,Highway 7,17,Active,17,2,SW,SW,SW,2,Regional Road,17-01,17-04,5,York Region,1469.52140185477
+953,49-06,Nashville Road,Cold Creek Road,Huntington Road,49,Active,49,6,SW,SW,SW,3,Regional Road,49-04,49-08,2,York Region,1999.89134870033
+954,08-22,Woodbine Avenue,Vandorf Sideroad,Aurora Road,8,Active,8,22,CE,CE,CE,2,Regional Road,08-20,08-24,4,York Region,2065.84260781959
+955,31-39,Davis Drive,Highway 48,Centre Street,31,Active,31,39,CE,CE,CE,2,Regional Road,31-38,31-40,2,York Region,1037.49132923427
+956,01-03,Yonge Street,Centre Street / Thornhill Summit Drive,Highway 407,1,Active,1,3,SE,SE,SE,1,Regional Road,01-02,01-04,6,York Region,2020.93224776454
+957,12-42,Leslie Street,Boag Road,Ravenshoe Road / The Queensway South,12,Active,12,42,NO,NO,NO,2,Regional Road,12-40,12-44,2,York Region,2044.31886984207
+958,01-14S,Yonge Street Southbound,Stouffville Road,19th Avenue / Gamble Road,1,Active,1,14,SE,SE,SE,2,Regional Road,01-16,01-12S,2,York Region,2077.82747365908
+959,53-05,Dufferin Street,Highway 7,Langstaff Road,53,Active,53,5,SW,SW,SW,2,Regional Road,53-04,53-06,6,York Region,359.05086363255
+960,01-08M,Yonge Street Rapidway,16th Avenue / Carrville Road,Major Mackenzie Drive East / Major Mackenzie Drive West,1,Active,1,8,SE,SE,SE,1,Rapidway,01-06M,01-12M,2,York Region,2050.6636493502
+961,40-29,Bloomington Road,Leslie Street,Highway 404,40,Active,40,29,CE,CE,CE,2,Regional Road,40-28,40-30,4,York Region,1497.04005410608
+962,16-16,Lloydtown/Aurora Road,Highway 400,Jane Street / Kettleby Road,16,Active,16,16,CE,CE,CE,3,Regional Road,16-15,16-18,2,York Region,1098.51234691703
+963,03-52,Kennedy Road,Lockie Sideroad,Baseline Road,3,Active,3,52,NO,NO,NO,3,Regional Road,03-50,03-54,2,York Region,1218.62814659176
+964,31-25E,Davis Drive Eastbound,Davis Drive West / Yonge Street,Main Street North / Main Street South,31,Active,31,25,CE,CE,CE,2,Regional Road,31-24,31-26,2,York Region,1632.73513788428
+965,01-34,Highway 11,Morning Sideroad / Yonge Street,Bathurst Street,1,Active,1,34,CE,CE,CE,2,Regional Road,01-32,01-36,4,York Region,3635.65120011101
+966,69-06,Ninth Line,Highway 7,16th Avenue,69,Active,69,6,SE,SE,SE,2,Regional Road,69-04,69-08,4,York Region,2129.72477674805
+967,14-32,Stouffville Road,Woodbine Avenue,Warden Avenue,14,Active,14,32,SE,SE,SE,2,Regional Road,14-30,14-34,4,York Region,1866.12266260188
+968,48-02,Donald Cousens Parkway,Ninth Line,Box Grove Bypass / Box Grove Collector Road,48,Active,48,2,SE,SE,SE,2,Regional Road,69-02,48-05,4,York Region,1209.65709765553
+969,31-30,Davis Drive,Highway 404,Woodbine Avenue,31,Active,31,30,CE,CE,CE,1,Regional Road,31-29,31-32,4,York Region,1083.79379378143
+970,14-91,Stouffville Road - Woodbine Road Ramp,Stouffville Road,Woodbine Avenue,14,Active,14,91,SE,SE,SE,2,Channelized Right Turn Lane,Start,End,1,York Region,348.212636349392
+971,68-90,Highway 48 - Park Road Interchange,Highway 48,Park Road,68,Active,68,90,NO,NO,NO,3,Channelized Right Turn Lane,Start,End,1,York Region,452.180650124679
+972,07-15M,Highway 7 Rapidway,Weston Road,Highway 400,7,Active,7,15,SW,SW,SW,1,Rapidway,07-14M,07-16M,2,Metrolinx,685.65166658486
+973,03-18,Kennedy Road,Bethesda Sideroad,Bloomington Road,3,Active,3,18,SE,SE,SE,3,Regional Road,03-16,03-20,2,York Region,2073.03373925325
+974,67-14,McCowan Road,19th Avenue,Stouffville Road,67,Active,67,14,SE,SE,SE,3,Regional Road,67-12,67-16,2,York Region,2176.05440247598
+975,03-40,Kennedy Road,Holborn Road,Boag Road,3,Active,3,40,NO,NO,NO,3,Regional Road,03-38,03-42,2,York Region,2039.84989354994
+976,07-29W,Highway 7 Westbound,Leslie Street,Highway 404,7,Active,7,29,SE,SE,SE,1,Regional Road,07-28W,07-30W,3,York Region,986.823267817504
+977,67-08,McCowan Road,16th Avenue,Major Mackenzie Drive East,67,Active,67,8,SE,SE,SE,2,Regional Road,67-06,67-10,5,York Region,2067.53833574996
+978,95-28,Steeles Avenue East,Bayview Avenue,Don Mills Road,95,Active,95,28,,,SE,0,Regional Road,95-26,95-29,6,Toronto,2991.00348813046
+979,01-24,Yonge Street,Yonge Street Aurora Jurisdiction,St Johns Sideroad,1,Active,1,24,CE,CE,CE,2,Regional Road,01-20,01-26,5,York Region,821.668085056139
+980,31-25M,Davis Drive Rapidway,Davis Drive West / Yonge Street,Main Street North / Main Street South,31,Active,31,25,CE,CE,CE,1,Rapidway,31-24,31-26,4,Metrolinx,1605.27089009168
+981,65-20,Warden Avenue,Bloomington Road,Vandorf Sideroad,65,Active,65,20,CE,CE,CE,3,Regional Road,65-18,65-22,2,York Region,2134.31987060186
+982,13-26,Mount Albert Road,Queen Street / Yonge Street,2nd Concession Road,13,Active,13,26,NO,NO,NO,3,Regional Road,13-24,13-28,2,York Region,1994.36581057757
+983,01-20,Yonge Street,Bloomington Road,Yonge Street Aurora Jurisdiction,1,Active,1,20,CE,SE,CE,2,Regional Road,01-18,01-24,5,York Region,2199.94560388293
+984,15-24,Wellington Street West,Bathurst Street,Wellington Street East / Yonge Street,15,Active,15,24,CE,CE,CE,2,Regional Road,15-22,15-26,5,York Region,2231.59797254562
+985,09-91,Highway 48 - High Street Ramp,Highway 48,High Street,9,Active,9,91,NO,NO,NO,3,Channelized Right Turn Lane,Start,End,1,York Region,193.23397800879
+986,34-08,Bayview Avenue,16th Avenue,Major Mackenzie Drive East,34,Active,34,8,SE,SE,SE,2,Regional Road,34-06,34-10,5,York Region,2057.93674416707
+987,25-36,Major Mackenzie Drive East,Kennedy Road,McCowan Road,25,Active,25,36,SE,SE,SE,2,Regional Road,25-34,25-38,5,York Region,2162.54260851576
+988,07-16E,Highway 7 Eastbound,Highway 400,Jane Street,7,Active,7,16,SW,SW,SW,1,Regional Road,07-15,07-18E,3,York Region,1277.67584879225
+989,16-15,Lloydtown/Aurora Road,Weston Road,Highway 400,16,Active,16,15,CE,CE,CE,3,Regional Road,16-14,16-16,3,York Region,988.33996104905
+990,13-39,Mount Albert Road,Highway 48,Centre Street,13,Active,13,39,NO,NO,NO,3,Regional Road,13-38,13-40,2,York Region,1147.42263560327
+991,95-34,Steeles Avenue East,Warden Avenue,Kennedy Road,95,Active,95,34,,,SE,0,Regional Road,95-32,95-36,6,Toronto,1469.62279457885
+992,08-97,Union Street - Woodbine Avenue Ramp,Union Street,Woodbine Avenue,8,Active,8,97,SE,SE,SE,2,Channelized Right Turn Lane,Start,End,2,York Region,29.0011836063634
+993,25-15,Major Mackenzie Drive West,Weston Road,Highway 400,25,Active,25,15,SW,SW,SW,2,Regional Road,25-14,25-16,6,York Region,995.882672083553
+994,77-26,Queensville Sideroad,Queensville Sideroad West / Yonge Street,2nd Concession Road,77,Active,77,26,NO,NO,NO,3,Regional Road,77-24,77-28,2,York Region,1978.92145725814
+995,03-14,Kennedy Road,19th Avenue,Stouffville Road,3,Active,3,14,SE,SE,SE,3,Regional Road,03-12,03-16,2,York Region,2198.76550348928
+996,06-24,Keele Street,17th Sideroad,Lloydtown/Aurora Road,6,Active,6,24,CE,CE,CE,3,Regional Road,06-22,06-26,2,York Region,2219.21771845532
+997,56-18,Weston Road,King Road,15th Sideroad,56,Active,56,18,CE,CE,CE,3,Regional Road,56-16,56-20,2,York Region,2078.58466929932
+998,73-44,16th Avenue,Reesor Road,York/Durham Line,73,Active,73,44,SE,SE,SE,2,Regional Road,73-43,End,2,York Region,1822.87807329647
+999,11-16,King Road,Highway 400,Jane Street,11,Active,11,16,SW,SW,SW,2,Regional Road,11-15,11-18,4,York Region,1002.036748066
+1000,65-36,Warden Avenue,Doane Road,Queensville Sideroad,65,Active,65,36,NO,NO,NO,3,Regional Road,65-34,65-38,2,York Region,2068.16633472797
+1001,31-38,Davis Drive,McCowan Road,Highway 48,31,Active,31,38,CE,CE,CE,2,Regional Road,31-36,31-39,2,York Region,2063.01185329286
+1002,08-02,Woodbine Avenue,Denison Street,Esna Park Drive / John Street,8,Active,8,2,SE,SE,SE,2,Regional Road,08-01,08-03,8,York Region,361.514845942439
+1003,74-26,Mulock Drive,Yonge Street,Bayview Avenue,74,Active,74,26,CE,CE,CE,2,Regional Road,74-24,74-28,6,York Region,2010.57259869031
+1004,08-96,Woodbine Avenue - Baseline Road Ramp ,Woodbine Avenue,Woodbine Avenue - Baseline Road Ramp,8,Active,8,96,NO,NO,NO,2,Channelized Right Turn Lane,Start,End,1,York Region,52.5017881510401
+1005,06-28,Keele Street,19th Sideroad,Davis Drive West,6,Active,6,28,CE,CE,CE,4,Regional Road,06-26,END,2,York Region,2044.86226245101
+1006,45-30,Doane Road,Highway 404,Woodbine Avenue,45,Active,45,30,NO,NO,NO,4,Regional Road,45-29,End,2,York Region,760.662150758961
+1007,25-34,Major Mackenzie Drive East,Warden Avenue,Kennedy Road,25,Active,25,34,SE,SE,SE,2,Regional Road,25-32,25-36,4,York Region,2051.81368873561
+1008,38-04N,Bathurst Street Northbound,Highway 407,Richmond Hill-Vaughan Border,38,Active,38,4,SW,SW,SW,1,Regional Road,38-03N,38-06N,3,York Region,217.12313990652
+1009,40-22,15th Sideroad,Dufferin Street,Bathurst Street / Bloomington Road,40,Active,40,22,CE,CE,CE,3,Regional Road,40-20,40-24,2,York Region,1989.31754794007
+1010,67-30,McCowan Road,Davis Drive,Herald Road,67,Active,67,30,NO,NO,NO,4,Regional Road,67-18,67-32,2,York Region,2027.45026869542
+1011,73-11,Rutherford Road,Clarence Street,Islington Avenue,73,Active,73,11,SW,SW,SW,2,Regional Road,73-10,73-12,6,York Region,483.391864079201
+1012,95-12,Steeles Avenue West,Islington Avenue,Pine Valley Drive,95,Active,95,12,,,SW,0,Regional Road,95-11,95-14,6,Toronto,846.955935252125
+1013,73-16,Rutherford Road,Highway 400,Jane Street,73,Active,73,16,SW,SW,SW,1,Regional Road,73-15,73-18,7,York Region,1136.99802455989
+1014,49-31,Elgin Mills Road East,Woodbine Avenue,Victoria Square Boulevard,49,Active,49,30,SE,SE,SE,2,Regional Road,49-29,End,4,York Region,525.829847086939
+1015,78-60,Metro Road North,Kennedy Road,Salvation Army Road,78,Active,78,60,NO,NO,NO,3,Regional Road,78-58,78-62,2,York Region,2008.63689332655
+1016,12-32,Leslie Street,Green Lane East,Farr Avenue / Mount Albert Road,12,Active,12,32,NO,NO,NO,2,Regional Road,12-30,12-34,2,York Region,2462.97551273568
+1017,71-38,14th Avenue,McCowan Road,Markham Road,71,Active,71,38,SE,SE,SE,2,Regional Road,71-36,71-40,5,York Region,2105.16419992201
+1018,13-29,Mount Albert Road,Leslie Street,Highway 404,13,Active,13,29,NO,NO,NO,3,Regional Road,13-28,13-30,2,York Region,1686.35951373882
+1019,79-29,Old Homestead Road,Metro Road North,The Queensway North,79,Active,79,29,NO,NO,NO,3,Regional Road,Start,79-30,2,York Region,1344.42372448532
+1020,01-02,Yonge Street,Steeles Avenue East / Steeles Avenue West,Centre Street / Thornhill Summit Drive,1,Active,1,2,SE,SE,SE,1,Regional Road,Start,01-03,7,York Region,2064.17174825103
+1021,95-24,Steeles Avenue West,Bathurst Street,Yonge Street,95,Active,95,24,,,SW,0,Regional Road,95-22,95-26,4,Toronto,2157.1007491192
+1022,03-01,Kennedy Road,Steeles Avenue East,Denison Street,3,Active,3,1,SE,SE,SE,2,Regional Road,Start,03-02,5,York Region,1255.62622650946
+1023,18-54,Park Road,Highway 404 Extension,Highway 48,18,Active,18,54,NO,NO,NO,3,Regional Road,18-52,18-56,2,York Region,738.259942022483
+1024,74-29,Mulock Drive,Leslie Street,Vivian Road,74,Active,74,29,CE,CE,CE,2,Regional Road,74-28,74-30,5,York Region,904.82147165466
+1025,07-32M,Highway 7 Rapidway,Woodbine Avenue,Warden Avenue,,Active,7,32,SE,SE,SE,1,Rapidway,07-30M,End,2,Metrolinx,2048.78115219545
+1026,26-30,St Johns Sideroad,Highway 404,Woodbine Avenue,26,Active,26,30,CE,CE,CE,4,Regional Road,26-29,End,2,York Region,933.330477934618
+1027,07-30M,Highway 7 Rapidway,Highway 404,Woodbine Avenue,,Active,7,30,SE,SE,SE,1,Rapidway,07-29M,07-32M,2,Metrolinx,1085.28722993517
+1028,21-52,Pefferlaw Road,Lake Ridge Road,Morning Glory Road,21,Active,21,52,NO,NO,NO,4,Regional Road,Start,21-53,2,York Region,3105.91827348258
+1029,27-94,Highway 9 - Highway 27 Ramp,Highway 9,Highway 27,27,Active,27,94,CE,CE,CE,2,Channelized Right Turn Lane,Start,End,1,York Region,376.17044785003
+1030,51-34,Yonge Street,Bradford Street / Thompson Drive,Doane Road / Doane Road West,51,Active,51,34,NO,NO,NO,4,Regional Road,51-33,51-36,2,York Region,990.705734319846
+1031,08-52,Woodbine Avenue,Boyers Sideroad,Deer Park Road,8,Active,8,52,NO,NO,NO,2,Regional Road,08-50,08-54,2,York Region,1033.77992963333
+1032,01-28N,Yonge Street Northbound,Eagle Street / Eagle Street West,Davis Drive / Davis Drive West,1,Active,1,28,CE,CE,CE,2,Regional Road,01-27N,01-30,2,York Region,1077.41527066685
+1033,03-03,Kennedy Road,14th Avenue,Highway 407,3,Active,3,3,SE,SE,SE,2,Regional Road,03-02,03-04,5,York Region,788.850972508654
+1034,13-40,Mount Albert Road,Centre Street,Ninth Line,13,Active,13,40,NO,NO,NO,3,Regional Road,13-39,13-42,2,York Region,1062.3857692369
+1035,15-42,Aurora Road,Ninth Line,York/Durham Line,15,Active,15,42,CE,CE,CE,3,Regional Road,15-40,End,2,York Region,1646.16805876628
+1036,48-08,Donald Cousens Parkway,16th Avenue,Ninth Line,48,Active,48,8,SE,SE,SE,3,Regional Road,48-06,48-09,4,York Region,1951.55433588759
+1037,11-10,King Road,Highway 27,8th Concession,11,Active,11,10,SW,SW,SW,2,Regional Road,11-08,11-12,2,York Region,2033.60936092276
+1038,07-12E,Highway 7 Eastbound,Islington Avenue,Pine Valley Drive,7,Active,7,12,SW,SW,SW,1,Regional Road,07-11,07-14E,3,York Region,1377.47072312629
+1039,25-38,Major Mackenzie Drive East,McCowan Road,Highway 48,25,Active,25,38,SE,SE,SE,2,Regional Road,25-36,25-40,2,York Region,2137.18301249186
+1040,32-36,Ravenshoe Road,Kennedy Road,McCowan Road,32,Active,32,36,NO,NO,NO,2,Regional Road,32-34,32-38,2,York Region,2042.20482035002
+1041,73-15,Rutherford Road,Weston Road,Highway 400,73,Active,73,15,SW,SW,SW,1,Regional Road,73-14,73-16,7,York Region,831.988369946658
+1042,73-10,Rutherford Road,Highway 27,Clarence Street,73,Active,73,10,SW,SW,SW,2,Regional Road,73-08,73-11,6,York Region,1961.77085212104
+1043,07-12M,Highway 7 Rapidway,Islington Avenue,Pine Valley Drive,7,Active,7,12,SW,SW,SW,1,Rapidway,07-11,07-14,2,Metrolinx,1362.56209011557
+1044,15-38,Aurora Road,McCowan Road,Highway 48,15,Active,15,38,CE,CE,CE,3,Regional Road,15-36,15-40,2,York Region,1966.37077533852
+1045,55-26,Jane Street,Kettleby Road / Lloydtown/Aurora Road,19th Sideroad,55,Active,55,26,CE,CE,CE,3,Regional Road,55-25,55-28,2,York Region,1000.15828732762
+1046,30-16,York/Durham Line,Main Street,Bethesda Sideroad,30,Active,30,16,SE,SE,SE,3,Regional Road,30-14,30-18,2,York Region,2064.55995932081
+1047,08-32,Woodbine Avenue,Green Lane East / Herald Road,Mount Albert Road,8,Active,8,32,NO,NO,NO,2,Regional Road,08-30,08-34,4,York Region,2077.68791742523
+1048,14-34,Stouffville Road,Warden Avenue,Kennedy Road,14,Active,14,34,SE,SE,SE,2,Regional Road,14-32,14-36,2,York Region,2314.21187824853
+1049,30-10,York/Durham Line,Major Mackenzie Drive East,Elgin Mills Road East,30,Active,30,10,SE,SE,SE,2,Regional Road,30-08,30-12,2,York Region,2005.51786577492
+1050,56-14,Weston Road,Kirby Road,King Vaughan Road,56,Active,56,14,SW,SW,SW,3,Regional Road,56-12,56-16,2,York Region,2062.08796516367
+1051,51-36,Yonge Street,Doane Road / Doane Road West,Queensville Sideroad,51,Active,51,36,NO,NO,NO,4,Regional Road,51-34,End,2,York Region,2047.17844594102
+1052,17-90,Islington Avenue - Rutherford Road Ramp,Islington Avenue,Rutherford Road,17,Active,17,90,SW,SW,SW,2,Channelized Right Turn Lane,17-06,73-12,1,York Region,173.552473833208
+1053,32-31,Ravenshoe Road,Woodbine Avenue,Highway 404 Extension,32,Active,32,31,NO,NO,NO,2,Regional Road,32-30,32-32,2,York Region,357.658262607598
+1054,51-33,Yonge Street,Mount Albert Road / Queen Street,Bradford Street / Thompson Drive,51,Active,51,33,NO,NO,NO,3,Regional Road,51-32,51-34,2,York Region,668.007678280462
+1055,31-28M,Davis Drive Rapidway,Lundys Lane / Prospect Street,Leslie Street,31,Active,31,28,CE,CE,CE,1,Rapidway,31-26,31-29,0,Metrolinx,1876.39704733608
+1056,79-40,Old Homestead Road,Valley View Drive,Highway 48,79,Active,79,40,NO,NO,NO,3,Regional Road,79-38,79-44,2,York Region,770.467792222066
+1057,08-01,Woodbine Avenue,Steeles Avenue East,Denison Street,8,Active,8,1,SE,SE,SE,2,Regional Road,Start,08-02,8,York Region,919.41210678725
+1058,27-93,Highway 27 - Highway 9 Ramp,Highway 27,Highway 9,27,Active,27,93,CE,CE,CE,2,Channelized Right Turn Lane,Start,End,1,York Region,458.130194212644
+1059,71-41,14th Avenue,Ninth Line,Box Grove Bypass,71,Active,71,41,SE,SE,SE,3,Regional Road,71-40,71-42,2,York Region,482.450659520975
+1060,83-33,Holland Landing Road,Old Yonge Street / Yonge Street,Bradford Street,83,Active,83,33,NO,NO,NO,3,Regional Road,Start,83-34,2,York Region,1186.93793468775
+1061,73-07,Rutherford Road,Huntington Road,Highway 427,73,Active,73,7,SW,SW,SW,2,Regional Road,73-06,73-08,4,York Region,816.564768918426
+1062,71-22W,Centre Street Westbound,Bathurst Street,Dufferin Street,71,Active,71,22,SW,SW,SW,1,Regional Road,Start,End,2,York Region,2097.02947384309
+1063,25-44,Major Mackenzie Drive East,Reesor Road,York/Durham Line,25,Active,25,44,SE,SE,SE,2,Regional Road,25-42,End,2,York Region,1505.89282605528
+1064,21-53,Pefferlaw Road,Morning Glory Road,Highway 404 Extension,21,Active,21,53,NO,NO,NO,4,Regional Road,21-52,21-54,2,York Region,1374.82913663743
+1065,01-30,Yonge Street,Davis Drive / Davis Drive West,Green Lane East / Green Lane West,1,Active,1,30,CE,CE,CE,2,Regional Road,01-28,01-32,6,York Region,2037.49566777455
+1066,25-92,Major Mackenzie Drive West,Huntington Road,Highway 27,25,Active,25,92,SW,SW,SW,2,Regional Road,25-06,End,2,York Region,1122.60965376747
+1067,07-94,Highway 7 - Highway 27 Ramp,Highway 7,Highway 27,7,Active,7,94,SW,SW,SW,1,Channelized Right Turn Lane,Start,End,1,York Region,675.449088222952
+1068,24-06,Highway 50,Langstaff Road,Rutherford Road,24,Active,24,6,,,SW,,Regional Road,,,4,Part Owner,2184.43543473654
+1069,38-08,Bathurst Street,Carrville Road / Rutherford Road,Major Mackenzie Drive West,38,Active,38,8,SW,SW,SW,2,Regional Road,38-06,38-10,6,York Region,2049.52727569467
+1070,27-08,Highway 27,Major Mackenzie Drive West,Humber Bridge Trail,27,Active,27,8,SW,SW,SW,2,Regional Road,27-07,27-09,3,York Region,551.703301830332
+1071,55-28,Jane Street,19th Sideroad,Davis Drive West,55,Active,55,28,CE,CE,CE,3,Regional Road,55-26,End,2,York Region,2028.58414589
+1072,08-20,Woodbine Avenue,Bloomington Road,Vandorf Sideroad,8,Active,8,20,CE,CE,CE,2,Regional Road,08-18,08-22,2,York Region,2086.80180591566
+1073,08-91,Woodbine Avenue - Baseline Road Ramp,Woodbine Avenue,Baseline Road,8,Active,8,91,NO,NO,NO,2,Regional Road,Start,End,2,York Region,536.353750041552
+1074,08-24,Woodbine Avenue,Aurora Road,St Johns Sideroad,8,Active,8,24,CE,CE,CE,2,Regional Road,08-22,08-26,4,York Region,2057.52621312182
+1075,06-01,Keele Street,Steeles Avenue West,Highway 407,6,Active,6,1,SW,SW,SW,2,Regional Road,Start,06-02,5,York Region,1233.79188591054
+1076,13-28,Mount Albert Road,2nd Concession Road,Farr Avenue / Leslie Street,13,Active,13,28,NO,NO,NO,3,Regional Road,13-26,13-29,2,York Region,2023.90366774863
+1077,31-32,Davis Drive,Woodbine Avenue,Warden Avenue,31,Active,31,32,CE,CE,CE,1,Regional Road,31-30,31-34,4,York Region,2053.50646350524
+1078,34-20,Bayview Avenue,Bloomington Road,Vandorf Sideroad,34,Active,34,20,CE,CE,CE,2,Regional Road,34-18,34-22,3,York Region,2097.19765890133
+1079,03-36,Kennedy Road,Doane Road,Queensville Sideroad,3,Active,3,36,NO,NO,NO,3,Regional Road,03-34,03-38,2,York Region,2059.02695833519
+1080,69-91,Box Grove Bypass,14th Avenue,Copper Creek Drive,69,Active,69,91,SE,SE,SE,2,Regional Road,69-90,69-03,4,York Region,667.19732021659
+1081,45-26,Doane Road,Doane Road West / Yonge Street,2nd Concession Road,45,Active,45,26,NO,NO,NO,4,Regional Road,Start,45-28,2,York Region,1859.74115173026
+1082,79-54,Old Homestead Road,Weirs Sideroad,Station Road,79,Active,79,54,NO,NO,NO,3,Regional Road,79-52,End,2,York Region,1572.14868031182
+1083,38-04M,Bathurst Street Rapidway,Highway 407,Richmond Hill-Vaughan Border,38,Active,38,4,SW,SW,SW,1,Rapidway,38-03M,38-06M,1,Metrolinx,201.366376657919
+1084,17-01,Islington Avenue,Steeles Avenue West,Highway 407,17,Active,17,1,SW,SW,SW,2,Regional Road,Start,17-02,5,York Region,760.389733453495
+1085,74-40,Vivian Road,Highway 48,Ninth Line,74,Active,74,40,CE,CE,CE,3,Regional Road,74-38,74-42,2,York Region,2106.27563048911
+1086,11-24,King Road,Bathurst Street,Yonge Street,11,Active,11,24,SW,SW,SW,2,Regional Road,11-22,End,4,York Region,2237.90805109579
+1087,79-34,Old Homestead Road,Warden Avenue,Kennedy Road,79,Active,79,34,NO,NO,NO,3,Regional Road,79-32,79-35,2,York Region,2008.65786917729
+1088,57-02,Pine Valley Drive,Highway 407,Highway 7,57,Active,57,2,SW,SW,SW,2,Regional Road,57-01,57-04,5,York Region,1148.99332518557
+1089,68-04,Markham Road,Highway 407,Exit 92 / James Scott Road / Main Street Markham  / Princess Street,68,Active,68,4,SE,SE,SE,2,Regional Road,68-03,End,4,York Region,336.814736041052
+1090,03-30,Kennedy Road,Davis Drive,Unopened Road Allowance,3,Active,3,30,CE,CE,CE,4,Regional Road,03-28,03-32,2,York Region,518.124957880043
+1091,53-18,Dufferin Street,King Road,15th Sideroad,53,Active,53,18,CE,CE,CE,2,Regional Road,53-16,53-20,2,York Region,2050.3832074577
+1092,08-26,Woodbine Avenue,St Johns Sideroad,Vivian Road,8,Active,8,26,CE,CE,CE,2,Regional Road,08-24,08-28,2,York Region,2077.17293144315
+1093,45-28,Doane Road,2nd Concession Road,Jeffery Crescent / Leslie Street,45,Active,45,28,NO,NO,NO,4,Regional Road,45-26,45-29,2,York Region,2126.04660732431
+1094,03-48,Kennedy Road,Highway 404 Extension,Old Homestead Road,3,Active,3,48,NO,NO,NO,3,Regional Road,03-47,03-50,2,York Region,806.236754232926
+1095,73-06,Rutherford Road,Highway 50,Huntington Road,73,Active,73,6,SW,SW,SW,2,Regional Road,Start,73-08,2,York Region,1143.53280259023
+1096,74-38,Vivian Road,McCowan Road,Highway 48,74,Active,74,38,CE,CE,CE,3,Regional Road,74-36,74-40,2,York Region,2014.17640752769
+1097,12-28,Leslie Street,Gorham Street,Davis Drive,12,Active,12,28,CE,CE,CE,2,Regional Road,12-27,12-30,5,York Region,1009.46834821055
+1098,67-34,McCowan Road,Mount Albert Road,Doane Road,67,Active,67,34,NO,NO,NO,4,Regional Road,67-32,67-36,2,York Region,2038.97392689583
+1099,14-29,Stouffville Road,Leslie Street,Highway 404,14,Active,14,29,SE,SE,SE,2,Regional Road,14-28,14-30,4,York Region,1091.69975166564
+1100,16-18,Lloydtown/Aurora Road,18th Sideroad / Jane Street,Keele Street,16,Active,16,18,CE,CE,CE,3,Regional Road,16-16,16-20,2,York Region,2241.36110368339
+1101,67-42,McCowan Road,Boag Road,Ravenshoe Road,67,Active,67,42,NO,NO,NO,3,Regional Road,67-40,End,2,York Region,2055.90910878595
+1102,38-32,Bathurst Street,Green Lane West / Millers Sideroad,Morning Sideroad,38,Active,38,32,NO,CE,NO,3,Regional Road,38-30,38-34,2,York Region,1222.83551757796
+1103,32-48,Ravenshoe Road,Park Road,Concession 5,32,Active,32,48,NO,NO,NO,3,Regional Road,32-44,32-52,2,York Region,4576.57710038794
+1104,38-30,Bathurst Street,Davis Drive West,Green Lane West / Millers Sideroad,38,Active,38,30,NO,CE,NO,2,Regional Road,38-28,38-32,4,York Region,2063.48230631225
+1105,95-44,Steeles Avenue East,Ressor Road,11th Concession,95,Active,95,44,,,SE,0,Regional Road,95-42,95-46,2,Toronto,1840.25485015366
+1106,95-32,Steeles Avenue East,Woodbine Avenue,Warden Avenue,95,Active,95,32,,,SE,0,Regional Road,95-30,95-34,6,Toronto,2038.32724831249
+1107,07-42,Highway 7,Donald Cousens Parkway,Highway 7 MTO Jurisdiction,7,Active,7,42,SE,SE,SE,2,Regional Road,07-41,End,5,York Region,185.139692785418
+1108,03-26,Kennedy Road,St Johns Sideroad,Vivian Road,3,Active,3,26,CE,CE,CE,3,Regional Road,03-24,03-28,2,York Region,2067.97108628319
+1109,32-38,Ravenshoe Road,McCowan Road,Highway 48,32,Active,32,38,NO,NO,NO,2,Regional Road,32-36,32-40,2,York Region,2402.60776141528
+1110,07-06,Highway 7,Highway 50,Huntington Road,7,Active,7,6,SW,SW,SW,1,Regional Road,Start,07-07,8,York Region,156.274936657226
+1111,11-14,King Road,7th Concession,Weston Road,11,Active,11,14,SW,SW,SW,2,Regional Road,11-12,11-15,2,York Region,2122.85781399062
+1112,11-22,King Road,Dufferin Street,Bathurst Street,11,Active,11,22,SW,SW,SW,2,Regional Road,11-20,11-24,4,York Region,1973.02298743353
+1113,73-36,16th Avenue,Kennedy Road,McCowan Road,73,Active,73,36,SE,SE,SE,2,Regional Road,73-34,73-38,5,York Region,2137.71441875097
+1114,25-40,Major Mackenzie Drive East,Highway 48,Donald Cousens Parkway,25,Active,25,40,SE,SE,SE,2,Regional Road,25-38,25-41,4,York Region,868.74918536247
+1115,12-30,Leslie Street,Davis Drive,Green Lane East,12,Active,12,30,NO,CE,NO,2,Regional Road,12-28,12-32,5,York Region,2076.87835891353
+1116,14-36,Stouffville Road,Kennedy Road,McCowan Road,14,Active,14,36,SE,SE,SE,2,Regional Road,14-34,14-38,2,York Region,2173.32434078179
+1117,34-24,Bayview Avenue,Wellington Street East,St Johns Sideroad,34,Active,34,24,CE,CE,CE,2,Regional Road,34-22,34-26,4,York Region,2084.38153876909
+1118,01-06N,Yonge Street Northbound,Highway 7,16th Avenue / Carrville Road,1,Active,1,6,SE,SE,SE,2,Regional Road,01-04,01-08N,2,York Region,1999.51281207483
+1119,34-90,Royal Orchard Boulevard,Bayview Avenue,Royal Orchard Boulevard,,Active,34,90,SE,SE,SE,2,Regional Road,34-03,34-03,2,York Region,739.114993268747
+1120,15-91,Aurora Road - Woodbine Avenue Ramp,Aurora Road,Woodbine Avenue,15,Active,15,91,CE,CE,CE,2,Channelized Right Turn Lane,Start,End,1,York Region,147.181152848097
+1121,01-26N,Yonge Street Northbound,St Johns Sideroad,Mulock Drive,1,Active,1,26,CE,CE,CE,2,Regional Road,01-24,01-27N,2,York Region,2075.30319603269
+1122,07-18M,Highway 7 Rapidway,Jane Street,Keele Street,7,Active,7,18,SW,SW,SW,1,Rapidway,07-16M,07-19M,2,Metrolinx,2132.94571757609
+1123,65-34,Warden Avenue,Mount Albert Road,Doane Road,65,Active,65,34,NO,NO,NO,3,Regional Road,65-32,65-36,2,York Region,2049.06957392059
+1124,13-30,Mount Albert Road,Highway 404,Woodbine Avenue,13,Active,13,30,NO,NO,NO,3,Regional Road,13-29,13-32,2,York Region,358.733362717643
+1125,79-48,Old Homestead Road,Park Road,Stoney Batter Road,79,Active,79,48,NO,NO,NO,3,Regional Road,79-44,79-52,2,York Region,3600.28073199604
+1126,32-34,Ravenshoe Road,Warden Avenue,Kennedy Road,32,Active,32,34,NO,NO,NO,2,Regional Road,32-32,32-36,2,York Region,2025.64172357692
+1127,56-22,Weston Road,16th Sideroad,17th Sideroad,56,Active,56,22,CE,CE,CE,3,Regional Road,56-20,56-24,2,York Region,2094.00630590751
+1128,25-06,Major Mackenzie Drive West,Highway 50,Huntington Road,25,Active,25,6,SW,SW,SW,3,Regional Road,Start,25-08,2,York Region,1556.03692045622
+1129,65-28,Warden Avenue,Vivian Road,Davis Drive,65,Active,65,28,CE,CE,CE,3,Regional Road,65-26,65-30,2,York Region,2072.01544126055
+1130,24-02,Highway 50,Highway 407,Highway 7,24,Active,24,2,,,SW,,Regional Road,,,4,Part Owner,1908.17785844337
+1131,40-34,Bloomington Road,Warden Avenue,Kennedy Road,40,Active,40,34,CE,CE,CE,2,Regional Road,40-32,40-36,2,York Region,2046.26254754214
+1132,73-32,16th Avenue,Woodbine Avenue,Warden Avenue,73,Active,73,32,SE,SE,SE,2,Regional Road,73-30,73-34,6,York Region,2060.69476284275
+1133,07-41,Highway 7,Ninth Line,Donald Cousens Parkway,7,Active,7,41,SE,SE,SE,2,Regional Road,07-40,07-42,5,York Region,1714.06987791153
+1134,73-42,16th Avenue,Cornell Centre Boulevard,Donald Cousens Parkway,73,Active,73,42,SE,SE,SE,2,Regional Road,73-41,73-43,4,York Region,565.408893375274
+1135,27-92,Highway 27 - Highway 7 Ramp,Highway 27,Highway 7,27,Active,27,92,SW,SW,SW,2,Channelized Right Turn Lane,Start,End,1,York Region,762.031777204225
+1136,71-22E,Centre Street Eastbound,Dufferin Street,Bathurst Street,71,Active,71,22,SW,SW,SW,1,Regional Road,Start,End,2,York Region,2110.49351260825
+1137,08-42,Woodbine Avenue,Highway 404,Ravenshoe Road,8,Active,8,42,NO,NO,NO,2,Regional Road,08-41,08-44,4,York Region,541.474757929705
+1138,07-30E,Highway 7 Eastbound,Highway 404,Woodbine Avenue,7,Active,7,30,SE,SE,SE,1,Regional Road,07-29E,07-32E,3,York Region,1121.27173935028
+1139,48-09,Donald Cousens Parkway,Ninth Line,Major Mackenzie Drive East,48,Active,48,9,SE,SE,SE,3,Regional Road,48-08,End,4,York Region,1768.59434972505
+1140,83-34,Holland Landing Road,Bradford Street,Bathurst Street,83,Active,83,34,NO,NO,NO,3,Regional Road,83-33,83-36,2,York Region,1701.17545577802
+1141,49-14,Teston Road,Pine Valley Drive,Weston Road,49,Active,49,14,SW,SW,SW,3,Regional Road,49-08,49-15,2,York Region,2147.17849185866
+1142,73-43,16th Avenue,Donald Cousens Parkway,Reesor Road,73,Active,73,43,SE,SE,SE,3,Regional Road,73-42,73-44,2,York Region,258.168786066212
+1143,67-16,McCowan Road,Stouffville Road,Bethesda Sideroad,67,Active,67,16,SE,SE,SE,3,Regional Road,67-14,67-18,2,York Region,2100.03412073574
+1144,01-28M,Yonge Street Rapidway,Eagle Street / Eagle Street West,Davis Drive / Davis Drive West,1,Active,1,28,CE,CE,CE,1,Rapidway,01-27M,01-30,2,Metrolinx,1059.76808670682
+1145,48-04,Donald Cousens Parkway,14th Avenue,Highway 407,48,Active,48,4,SE,SE,SE,3,Regional Road,48-03,48-05,4,York Region,1489.65296418283
+1146,24-08,Highway 50,Rutherford Road,Major Mackenzie Drive West,24,Active,24,8,,,SW,,Regional Road,,,4,Part Owner,1963.10957020062
+1147,78-52,Metro Road North,Boyers Sideroad,Deer Park Road,78,Active,78,52,NO,NO,NO,3,Regional Road,78-50,78-54,2,York Region,1190.49443375649
+1148,69-10,Ninth Line,Major Mackenzie Drive East,Elgin Mills Road East,69,Active,69,10,SE,SE,SE,2,Regional Road,69-09,69-12,2,York Region,1992.10956893187
+1149,56-10,Weston Road,Major Mackenzie Drive West,Teston Road,56,Active,56,10,SW,SW,SW,2,Regional Road,56-08,56-12,2,York Region,2050.34881075138
+1150,74-34,Vivian Road,Warden Avenue,Kennedy Road,74,Active,74,34,CE,CE,CE,3,Regional Road,74-32,74-36,2,York Region,2001.82904060358
+1151,03-20,Kennedy Road,Bloomington Road,Vandorf Sideroad,3,Active,3,20,CE,CE,CE,3,Regional Road,03-18,03-22,2,York Region,2077.1102667052
+1152,07-28W,Highway 7 Westbound,Bayview Avenue,Leslie Street,7,Active,7,28,SE,SE,SE,1,Regional Road,Start,07-29W,3,York Region,2060.91415823857
+1153,07-20,Highway 7,Centre Street / North Rivermede Road,Dufferin Street,7,Active,7,20,SW,SW,SW,1,Regional Road,07-19,07-21,7,York Region,1670.6964023837
+1154,07-07,Highway 7,Huntington Road,Highway 427,7,Active,7,7,SW,SW,SW,1,Regional Road,07-06,07-08,6,York Region,1056.81807649531
+1155,73-24,Carrville Road,Bathurst Street / Rutherford Road,16th Avenue / Yonge Street,73,Active,73,24,SW,SW,SW,2,Regional Road,73-22,73-26,4,York Region,2144.24266334342
+1156,03-50,Kennedy Road,Old Homestead Road,Lockie Sideroad,3,Active,3,50,NO,NO,NO,3,Regional Road,03-48,03-52,2,York Region,2030.05498090957
+1157,56-24,Weston Road,17th Sideroad,18th Sideroad,56,Active,56,24,CE,CE,CE,3,Regional Road,56-22,56-25,2,York Region,2039.46136106632
+1158,56-12,Weston Road,Teston Road,Kirby Road,56,Active,56,12,SW,SW,SW,3,Regional Road,56-10,56-14,2,York Region,2091.33371212633
+1159,31-18,Davis Drive West,Jane Street,Keele Street,31,Active,31,18,CE,CE,CE,1,Regional Road,31-16,31-20,5,York Region,1957.72652040139
+1160,27-06,Highway 27,Langstaff Road,Rutherford Road,27,Active,27,6,SW,SW,SW,2,Regional Road,27-04,27-07,5,York Region,2193.61913702027
+1161,27-04,Highway 27,Highway 7,Langstaff Road,27,Active,27,4,SW,SW,SW,2,Regional Road,27-02,27-06,5,York Region,2064.64873705783
+1162,01-27M,Yonge Street Rapidway,Mulock Drive,Eagle Street / Eagle Street West,1,Active,1,27,CE,CE,CE,1,Rapidway,01-26M,01-28M,2,York Region,1030.93240170814
+1163,12-44,The Queensway South,Leslie Street / Ravenshoe Road,Glenwoods Avenue,12,Active,12,44,NO,NO,NO,2,Regional Road,12-42,12-46,4,York Region,2177.24084378409
+1164,27-28,Highway 27,Lloydtown/Aurora Road,Highway 9,27,Active,27,28,CE,CE,CE,2,Regional Road,27-26,End,3,York Region,2063.82169517927
+1165,34-28,Prospect Street,Gorham Street / Water Street,Davis Drive / Lundys Lane,34,Active,34,28,CE,CE,CE,3,Regional Road,34-27,34-32,3,York Region,1013.95680468626
+1166,12-26,Leslie Street,St Johns Sideroad,Mulock Drive,12,Active,12,26,CE,CE,CE,2,Regional Road,12-24,12-27,2,York Region,2079.35184099595
+1167,32-24,Ravenshoe Road,York Region-Simcoe Border,Yonge Street,32,Active,32,24,NO,NO,NO,4,Regional Road,Start,32-26,2,York Region,98.5730839945672
+1168,95-40,Steeles Avenue East,Markham Road,Ninth Line,95,Active,95,40,,,SE,0,Regional Road,95-38,95-42,4,Toronto,2135.20574824754
+1169,14-20,King Vaughan Road,Keele Street,Dufferin Street,14,Active,14,20,SW,SW,SW,3,Regional Road,14-18,14-22,2,York Region,1894.7430909968
+1170,55-18,Jane Street,King Road,15th Sideroad,55,Active,55,18,CE,CE,CE,3,Regional Road,55-16,55-20,2,York Region,2094.62910202576
+1171,07-93,Highway 7 - Bayview Avenue Interchange,Highway 7,Bayview Avenue,7,Active,7,93,SE,SE,SE,2,Regional Road,Start,End,4,York Region,422.492318147967
+1172,49-20,Teston Road,Keele Street,Unopened Road Allowance,49,Active,49,20,SW,SW,SW,4,Regional Road,49-18,49-21,2,York Region,492.692084029113
+1173,29-24,Gamble Road,Bathurst Street,19th Avenue / Yonge Street,29,Active,29,24,SW,SW,SW,3,Regional Road,Start,29-26,2,York Region,2175.76107528023
+1174,71-19E,Centre Street Eastbound,Highway 7,Highway 407,71,Active,71,19,SW,SW,SW,,Regional Road,Start,71-21E,2,Province of Ontario,192.484229376337
+1175,16-10,Lloydtown/Aurora Road,Highway 27,8th Concession,16,Active,16,10,CE,CE,CE,3,Regional Road,Start,16-12,2,York Region,2032.6377663739
+1176,01-04,Yonge Street,Highway 407,Highway 7,1,Active,1,4,SE,SE,SE,1,Regional Road,01-03,01-06,6,York Region,187.954719931226
+1177,18-56,Park Road,Highway 48,Black River Road,18,Active,18,56,NO,NO,NO,3,Regional Road,18-54,18-58,2,York Region,1444.9968083083
+1178,15-20,17th Sideroad,Keele Street,Dufferin Street,15,Active,15,20,CE,CE,CE,4,Regional Road,15-18,15-22,2,York Region,2126.36341490868
+1179,08-46,Woodbine Avenue,Glenwoods Avenue,Morton Avenue / Pollock Road,8,Active,8,46,NO,NO,NO,2,Regional Road,08-45,08-48,4,York Region,2062.83194500013
+1180,09-54,Dalton Road,Black River Road,Oconnor Drive,9,Active,9,54,NO,NO,NO,3,Regional Road,09-53,End,4,York Region,1317.62727901528
+1181,08-41,Woodbine Avenue,Boag Road,Highway 404,8,Active,8,41,NO,NO,NO,2,Regional Road,08-40,08-42,2,York Region,1325.3517387313
+1182,65-50,Warden Avenue,Old Homestead Road,Boyers Sideroad,65,Active,65,50,NO,NO,NO,3,Regional Road,65-48,65-52,2,York Region,2078.94888707717
+1183,95-11,Steeles Avenue West,Kipling Avenue,Islington Avenue,95,Active,95,11,,,SW,0,Regional Road,95-10,95-12,4,Toronto,1364.94930603572
+1184,88-34,Baseline Road,Warden Avenue,Kennedy Road,8A,Active,88,34,NO,NO,NO,2,Regional Road,88-32,88-36,2,York Region,2019.85845625459
+1185,08-28,Woodbine Avenue,Vivian Road,Davis Drive,8,Active,8,28,CE,CE,CE,2,Regional Road,08-26,08-30,2,York Region,2061.82258741804
+1186,31-29,Davis Drive,Leslie Street,Highway 404,31,Active,31,29,CE,CE,CE,2,Regional Road,31-28,31-30,5,York Region,961.931281034236
+1187,67-36,McCowan Road,Doane Road,Queensville Sideroad,67,Active,67,36,NO,NO,NO,3,Regional Road,67-34,67-38,2,York Region,2052.11053621065
+1188,01-14M,Yonge Street Rapidway,19th Avenue / Gamble Road,Stouffville Road,1,Active,1,14,SE,SE,SE,1,Rapidway,01-12M,01-16,2,Metrolinx,2058.92269525571
+1189,65-46,Warden Avenue,Glenwoods Avenue,Pollock Road,65,Active,65,46,NO,NO,NO,3,Regional Road,65-44,65-47,2,York Region,2055.18752657974
+1190,79-52,Old Homestead Road,Stoney Batter Road,Weirs Sideroad,79,Active,79,52,NO,NO,NO,3,Regional Road,79-48,79-54,2,York Region,3559.95560067567
+1191,13-42,Mount Albert Road,Ninth Line,East Townline,13,Active,13,42,NO,NO,NO,4,Regional Road,13-40,End,2,York Region,316.468426359586
+1192,40-20,15th Sideroad,Keele Street,Dufferin Street,40,Active,40,20,CE,CE,CE,3,Regional Road,Start,40-22,2,York Region,2003.82258255091
+1193,11-18,King Road,Jane Street,Keele Street,11,Active,11,18,SW,SW,SW,2,Regional Road,11-16,11-20,4,York Region,2174.81329817994
+1194,12-06,Leslie Street,Highway 7,16th Avenue,12,Active,12,6,SE,SE,SE,2,Regional Road,12-04,12-08,5,York Region,2044.15557062022
+1195,70-02,Reesor Road,14th Avenue,14th Avenue,70,Active,70,2,SE,SE,SE,3,Regional Road,Start,End,2,York Region,110.782819065052
+1196,38-03M,Bathurst Street Rapidway,Centre Street,Highway 407,38,Active,38,3,SW,SW,SW,1,Rapidway,38-02,38-04,2,Metrolinx,1879.04941833474
+1197,12-22,Leslie Street,Vandorf Sideroad,Wellington Street East,12,Active,12,22,CE,CE,CE,3,Regional Road,12-20,12-24,2,York Region,2004.21939892049
+1198,71-34,14th Avenue,Alden Road / Warden Avenue,Kennedy Road,71,Active,71,34,SE,SE,SE,2,Regional Road,Start,71-36,5,York Region,2058.65945708649
+1199,12-40,Leslie Street,Holborn Road,Boag Road,12,Active,12,40,NO,NO,NO,2,Regional Road,12-38,12-42,2,York Region,2059.95265590618
+1200,12-36,Leslie Street,Doane Road / Jeffery Crescent,Queensville Sideroad,12,Active,12,36,NO,NO,NO,2,Regional Road,12-34,12-37,2,York Region,1974.03175069788
+1201,95-15,Steeles Avenue West,Weston Road,Highway 400,95,Active,95,15,,,SW,0,Regional Road,95-14,95-16,4,Toronto,965.470819934803
+1202,07-19W,Highway 7 Westbound,Keele Street,Centre Street / North Rivermede Road,7,Active,7,19,SW,SW,SW,1,Regional Road,07-18W,07-20,3,York Region,1616.72759097839
+1203,17-06,Islington Avenue,Langstaff Road,Rutherford Road,17,Active,17,6,SW,SW,SW,2,Regional Road,17-04,17-08,5,York Region,1991.59949969232
+1204,49-15,Teston Road,Weston Road,Highway 400,49,Active,49,15,SW,SW,SW,3,Regional Road,49-14,49-16,2,York Region,977.483750043219
+1205,07-97,Highway 7 - Langstaff Road Ramp,Highway 7 ,Langstaff Road,7,Active,7,97,SW,SW,SW,1,Channelized Right Turn Lane,07-22,72-21,1,York Region,193.33329276112
+1206,03-44,Kennedy Road,Ravenshoe Road,Glenwoods Avenue,3,Active,3,44,NO,NO,NO,3,Regional Road,03-42,03-46,2,York Region,2057.67356944851
+1207,01-26M,Yonge Street Rapidway,St Johns Sideroad,Mulock Drive,1,Active,1,26,CE,CE,CE,1,Rapidway,01-24,01-27M,2,York Region,2059.13735251724
+1208,34-22,Bayview Avenue,Vandorf Sideroad,Wellington Street East,34,Active,34,22,CE,CE,CE,2,Regional Road,34-20,34-24,2,York Region,2080.96485243834
+1209,25-41,Major Mackenzie Drive East,Donald Cousens Parkway,Ninth Line,25,Active,25,41,SE,SE,SE,2,Regional Road,25-40,25-42,4,York Region,1163.3564004579
+1210,31-26W,Davis Drive Westbound,Main Street North / Main Street South,Lundys Lane / Prospect Street,31,Active,31,26,CE,CE,CE,2,Regional Road,31-25,31-28,2,York Region,590.622399285809
+1211,65-38,Warden Avenue,Queensville Sideroad,Holborn Road,65,Active,65,38,NO,NO,NO,3,Regional Road,65-36,65-40,2,York Region,2266.31357418413
+1212,40-36,Bloomington Road,Kennedy Road,McCowan Road,40,Active,40,36,CE,CE,CE,1,Regional Road,40-34,40-38,2,York Region,2102.52456379236
+1213,95-18,Steeles Avenue West,Jane Street,Keele Street,95,Active,95,18,,,SW,0,Regional Road,95-16,95-20,6,Toronto,2294.21306355789
+1214,16-93,Lloydtown/Aurora Road,Lloydtown/Aurora Road,8th Concession,16,Active,16,93,CE,CE,CE,3,Regional Road,16-10,END,2,York Region,123.308952698233
+1215,74-36,Vivian Road,Kennedy Road,McCowan Road,74,Active,74,36,CE,CE,CE,3,Regional Road,74-34,74-38,2,York Region,2096.34083318117
+1216,01-14N,Yonge Street Northbound,19th Avenue / Gamble Road,Stouffville Road,1,Active,1,14,SE,SE,SE,2,Regional Road,01-12N,01-16,2,York Region,2069.37016451941
+1217,08-34,Woodbine Avenue,Mount Albert Road,Doane Road,8,Active,8,34,NO,NO,NO,2,Regional Road,08-32,08-36,4,York Region,2067.94603883753
+1218,32-56,Ravenshoe Road,Victoria Road,Lake Ridge Road,32,Active,32,56,NO,NO,NO,3,Regional Road,32-54,End,2,York Region,2306.03929384993
+1219,57-08,Pine Valley Drive,Rutherford Road,Major Mackenzie Drive West,57,Active,57,8,SW,SW,SW,4,Regional Road,57-04,57-10,2,York Region,2087.40410628725
+1220,32-44,Ravenshoe Road,East Townline / Miles Road,Park Road,32,Active,32,44,NO,NO,NO,2,Regional Road,32-40,32-48,2,York Region,3373.52738788841
+1221,68-01,Markham Road,Steeles Avenue East,Denison Street,68,Active,68,1,SE,SE,SE,2,Regional Road,Start,68-02,6,York Region,880.473672720388
+1222,71-42,14th Avenue,Box Grove Bypass,Box Grove Collector Road,71,Active,71,42,SE,SE,SE,3,Regional Road,71-41,71-43,2,York Region,696.816942530071
+1223,83-36,Holland Landing Road,Bathurst Street,Bathurst Street,83,Active,83,36,NO,NO,NO,3,Regional Road,83-34,End,2,York Region,225.672025613737
+1224,71-36,14th Avenue,Kennedy Road,McCowan Road,71,Active,71,36,SE,SE,SE,2,Regional Road,71-34,71-38,5,York Region,2126.4863236559
+1225,03-24,Kennedy Road,Aurora Road,St Johns Sideroad,3,Active,3,24,CE,CE,CE,3,Regional Road,03-22,03-26,2,York Region,2079.44459971143
+1226,48-03,Donald Cousens Parkway,Box Grove Bypass,14th Avenue,48,Active,48,3,SE,SE,SE,2,Regional Road,48-02,48-04,4,York Region,642.490644741257
+1227,53-02,Dufferin Street,Steeles Avenue West,Centre Street,53,Active,53,2,SW,SW,SW,2,Regional Road,Start,53-03,6,York Region,2071.10171416781
+1228,78-50,Metro Road North,Old Homestead Road,Boyers Sideroad,78,Active,78,50,NO,NO,NO,3,Regional Road,78-48,78-52,2,York Region,2165.33938863045
+1229,53-24,Dufferin Street,Wellington Street West,18th Sideroad / Lloydtown/Aurora Road,53,Active,53,24,CE,CE,CE,2,Regional Road,53-22,End,2,York Region,2045.92571141712
+1230,03-04,Kennedy Road,Highway 407,Highway 7,3,Active,3,4,SE,SE,SE,2,Regional Road,03-03,03-06,5,York Region,1513.3722593168
+1231,08-38,Woodbine Avenue,Queensville Sideroad,Holborn Road,8,Active,8,38,NO,NO,NO,3,Regional Road,08-36,08-40,2,York Region,2248.60843794587
+1232,15-32,Aurora Road,Woodbine Avenue,Warden Avenue,15,Active,15,32,CE,CE,CE,2,Regional Road,15-30,15-34,2,York Region,2134.6273501722
+1233,57-01,Pine Valley Drive,Steeles Avenue West,Highway 407,57,Active,57,1,SW,SW,SW,2,Regional Road,Start,57-02,5,York Region,1024.36364661775
+1234,32-32,Ravenshoe Road,Highway 404 Extension,Warden Avenue,32,Active,32,32,NO,NO,NO,2,Regional Road,32-31,32-34,2,York Region,1755.4533188196
+1235,27-02,Highway 27,Highway 407,Highway 7,27,Active,27,2,SW,SW,SW,2,Regional Road,27-01,27-04,5,York Region,1711.68751932554
+1236,15-30,Aurora Road,Wellington Street East,Woodbine Avenue,15,Active,15,30,CE,CE,CE,2,Regional Road,15-29,15-32,4,York Region,952.315485779034
+1237,45-29,Doane Road,Jeffery Crescent,Highway 404,45,Active,45,29,NO,NO,NO,4,Regional Road,45-28,45-30,2,York Region,1228.06711908834
+1238,49-24,Elgin Mills Road West,Bathurst Street / Teston Road,Elgin Mills Road East / Yonge Street,49,Active,49,24,SW,SW,SW,3,Regional Road,49-22,49-26,3,York Region,2167.35280951591
+1239,11-06,King Road,11th Concession,10th Concession,11,Active,11,6,SW,SW,SW,2,Regional Road,11-04,11-08,2,York Region,2055.72865717149
+1240,17-08,Islington Avenue,Rutherford Road,Major Mackenzie Drive West,17,Active,17,8,SW,SW,SW,2,Regional Road,17-06,End,2,York Region,2262.52711579466
+1241,56-16,Weston Road,King Vaughan Road,King Road,56,Active,56,16,SW,SW,SW,3,Regional Road,56-14,56-18,2,York Region,2020.21630772333
+1242,56-28,Weston Road,19th Sideroad,Highway 9,56,Active,56,28,CE,CE,CE,3,Regional Road,56-26,End,2,York Region,2018.75891713023
+1243,34-02,Bayview Avenue,Steeles Avenue East,John Street,34,Active,34,2,SE,SE,SE,2,Regional Road,Start,34-03,5,York Region,1763.73066732367
+1244,65-22,Warden Avenue,Vandorf Sideroad,Aurora Road,65,Active,65,22,CE,CE,CE,3,Regional Road,65-20,65-24,2,York Region,2037.24441318429
+1245,31-36,Davis Drive,Kennedy Road,McCowan Road,31,Active,31,36,CE,CE,CE,2,Regional Road,31-34,31-38,2,York Region,2043.56374423349
+1246,71-46,14th Avenue,Eleventh Concession,York/Durham Line,71,Active,71,46,SE,SE,SE,3,Regional Road,71-44,End,2,York Region,330.259754286186
+1247,69-16,Ninth Line,Main Street,Bethesda Sideroad,69,Active,69,16,SE,SE,SE,2,Regional Road,69-14,69-18,2,York Region,2115.02385088064
+1248,51-32,Yonge Street,Holland Landing Road / Old Yonge Street,Mount Albert Road / Queen Street,51,Active,51,32,NO,NO,NO,3,Regional Road,51-31,51-33,2,York Region,445.709440237509
+1249,65-24,Warden Avenue,Aurora Road,St Johns Sideroad,65,Active,65,24,CE,CE,CE,3,Regional Road,65-22,65-26,2,York Region,2079.96457990946
+1250,16-91,Lloydtown/Aurora Road - Jane Street Ramp,Lloydtown/Aurora Road,Jane Street,16,Active,16,91,CE,CE,CE,3,Channelized Right Turn Lane,Start,End,1,York Region,315.443780645784
+1251,03-34,Kennedy Road,Mount Albert Road,Doane Road,3,Active,3,34,NO,NO,NO,3,Regional Road,03-32,03-36,2,York Region,2028.10947764212
+1252,71-21W,Centre Street Westbound,Dufferin Street,Highway 407,71,Active,71,21,SW,SW,SW,,Regional Road,71-22W,71-19W,2,Province of Ontario,481.001398144732
+1253,01-32,Yonge Street,Green Lane East / Green Lane West,Highway 11 / Morning Sideroad,1,Active,1,32,CE,CE,CE,2,Regional Road,01-30,01-34,5,York Region,1089.43679964744
+1254,07-96E,Highway 7 Eastbound - Centre Steet Ramp,Highway 7 Eastbound,Centre Street,7,Active,7,96,SW,SW,SW,2,Channelized Right Turn Lane,07-19E,71-17S,1,York Region,236.721767405617
+1255,01-16,Yonge Street,Stouffville Road,King Road,1,Active,1,16,SE,SE,SE,2,Regional Road,01-14,01-18,5,York Region,2096.54678376472
+1256,53-03,Dufferin Street,Centre Street,Highway 407,53,Active,53,3,SW,SW,SW,2,Regional Road,53-02,53-04,7,York Region,1379.14363251714
+1257,49-21,Teston Road,Dead End,Dufferin Street,49,Active,49,21,SW,SW,SW,5,Regional Road,49-20,49-22,2,York Region,100.765493310264
+1258,14-38,Stouffville Road,McCowan Road,Highway 48 / Main Street,14,Active,14,38,SE,SE,SE,2,Regional Road,14-36,14-40,2,York Region,1901.91739498353
+1259,25-24,Major Mackenzie Drive West,Bathurst Street,Major Mackenzie Drive East / Yonge Street,25,Active,25,24,SW,SW,SW,2,Regional Road,25-22,25-26,5,York Region,2137.88243160851
+1260,73-40,16th Avenue,Highway 48 / Main Street Markham,Ninth Line,73,Active,73,40,SE,SE,SE,2,Regional Road,73-38,73-41,5,York Region,2068.05943597728
+1261,55-16,Jane Street,King Vaughan Road,King Road,55,Active,55,16,SW,SW,SW,3,Regional Road,55-14,55-18,2,York Region,2016.55393903829
+1262,67-40,McCowan Road,Holborn Road,Boag Road,67,Active,67,40,NO,NO,NO,3,Regional Road,67-38,67-42,2,York Region,2063.67166401013
+1263,19-24,Green Lane West,Bathurst Street / Millers Sideroad,Green Lane East / Yonge Street,19,Active,19,24,NO,CE,NO,2,Regional Road,Start,19-26,4,York Region,2171.25826349981
+1264,08-36,Woodbine Avenue,Doane Road,Queensville Sideroad,8,Active,8,36,NO,NO,NO,3,Regional Road,08-34,08-38,2,York Region,2041.46798353795
+1265,38-92,Bathurst Street - Major Mackenzie Drive Ramp,Bathurst Street,Major Mackenzie Drive West,38,Active,38,92,SW,SW,SW,2,Channelized Right Turn Lane,Start,End,1,York Region,297.901296827365
+1266,67-10,McCowan Road,Major Mackenzie Drive East,Elgin Mills Road East,67,Active,67,10,SE,SE,SE,2,Regional Road,67-08,67-12,2,York Region,2034.18091916746
+1267,18-58,Park Road,Black River Road,Hedge Road,18,Active,18,58,NO,NO,NO,4,Regional Road,18-56,End,2,York Region,1471.96414588574
+1268,14-14,King Vaughan Road,Pine Valley Drive / Concession Road 7,Weston Road,14,Active,14,14,SW,SW,SW,4,Regional Road,14-12,14-15,2,York Region,2127.90859084994
+1269,56-08,Weston Road,Rutherford Road,Major Mackenzie Drive West,56,Active,56,8,SW,SW,SW,2,Regional Road,56-06,56-10,5,York Region,2104.95896486524
+1270,16-90,Lloydtown/Aurora Road - Highway 27 Interchange,Lloydtown/Aurora Road,Highway 27,16,Active,16,90,CE,CE,CE,2,Channelized Right Turn Lane,Start,End,1,York Region,324.603359300971
+1271,31-21,Davis Drive West,Dufferin Street,Dufferin Street / Glenville Road,31,Active,31,21,CE,CE,CE,1,Regional Road,31-20,31-22,5,York Region,710.392594856115
+1272,95-07,Steeles Avenue West,Highway 50,Highway 427,95,Active,95,7,,,SW,0,Regional Road,END,95-08,4,Toronto,711.500176570522
+1273,16-12,Lloydtown/Aurora Road,8th Concession,7th Concession,16,Active,16,12,CE,CE,CE,3,Regional Road,16-10,16-14,2,York Region,2290.14607777546
+1274,79-36,Old Homestead Road,Highway 404 Extension,McCowan Road,79,Active,79,36,NO,NO,NO,3,Regional Road,79-35,79-38,2,York Region,656.523108854046
+1275,65-12,Warden Avenue,Elgin Mills Road East,19th Avenue,65,Active,65,12,SE,SE,SE,3,Regional Road,65-10,65-14,2,York Region,2036.88993692845
+1276,30-14,York/Durham Line,19th Avenue,Main Street,30,Active,30,14,SE,SE,SE,3,Regional Road,30-12,30-16,2,York Region,2055.60755340694
+1277,08-50,Woodbine Avenue,Old Homestead Road,Boyers Sideroad,8,Active,8,50,NO,NO,NO,2,Regional Road,08-48,08-52,2,York Region,2065.87395439464
+1278,19-30,Green Lane East,Highway 404,Herald Road / Woodbine Avenue,19,Active,19,30,NO,CE,NO,2,Regional Road,19-29,End,5,York Region,960.646948733198
+1279,49-28,Elgin Mills Road East,Bayview Avenue,Leslie Street,49,Active,49,28,SE,SE,SE,2,Regional Road,49-26,49-29,5,York Region,2011.59994894418
+1280,15-26,Wellington Street East,Wellington Street West / Yonge Street,Bayview Avenue,15,Active,15,26,CE,CE,CE,2,Regional Road,15-24,15-28,4,York Region,1998.28827129963
+1281,81-44,Weirs Sideroad,Ravenshoe Road,Old Shiloh Road,81,Active,81,44,NO,NO,NO,3,Regional Road,Start,81-46,2,York Region,1400.33824450024
+1282,27-95,Islington Avenue - Highway 27 Ramp,Islington Avenue,Highway 27,27,Active,27,95,SW,SW,SW,2,Channelized Right Turn Lane,Start,End,2,York Region,50.4905000002028
+1283,06-12,Keele Street,Teston Road,Kirby Road,6,Active,6,12,SW,SW,SW,2,Regional Road,06-10,06-14,4,York Region,2069.70179700144
+1284,34-18,Bayview Avenue,Bethesda Sideroad,Bloomington Road,34,Active,34,18,CE,CE,CE,2,Regional Road,34-16,34-20,2,York Region,2112.54648283299
+1285,30-04,York/Durham Line,14th Avenue,Highway 407,30,Active,30,4,SE,SE,SE,3,Regional Road,30-02,30-06,2,York Region,2101.37115444452
+1286,65-14,Warden Avenue,19th Avenue,Stouffville Road,65,Active,65,14,SE,SE,SE,3,Regional Road,65-12,65-16,2,York Region,2103.6088990357
+1287,74-28,Mulock Drive,Bayview Avenue,Leslie Street,74,Active,74,28,CE,CE,CE,2,Regional Road,74-26,74-29,4,York Region,2102.1991902418
+1288,01-10N,Yonge Street Northbound,Major Mackenzie Drive East,Elgin Mills Road East,1,Active,1,10,SE,SE,SE,2,Regional Road,01-08N,01-12N,2,York Region,803.963434461886
+1289,18-44,Park Road,Ravenshoe Road,Old Shiloh Road,18,Active,18,44,NO,NO,NO,3,Regional Road,Start,18-46,2,York Region,1421.95716962762
+1290,74-32,Vivian Road,Woodbine Avenue,Warden Avenue,74,Active,74,32,CE,CE,CE,3,Regional Road,74-30,74-34,2,York Region,2073.75942305294
+1291,25-91,Major Mackenzie Drive - Bathurst Street Ramp,Major Mackenzie Drive West,Bathurst Street,25,Active,25,91,SW,SW,SW,2,Channelized Right Turn Lane,Start,End,1,York Region,266.256062631376
+1292,78-58,Metro Road North,Civic Centre Road,Kennedy Road,78,Active,78,58,NO,NO,NO,3,Regional Road,78-56,78-60,2,York Region,2024.63672446902
+1293,40-28,Bloomington Road,Bayview Avenue,Leslie Street,40,Active,40,28,CE,CE,CE,1,Regional Road,40-26,40-29,2,York Region,2077.57925394473
+1294,71-43,14th Avenue,Box Grove Collector Road,Reesor Road,71,Active,71,43,SE,SE,SE,3,Regional Road,71-42,71-44,2,York Region,923.472037412492
+1295,65-47,Warden Avenue,Pollock Road,Highway 404 Extension,65,Active,65,47,NO,NO,NO,3,Regional Road,65-46,65-48,2,York Region,993.250739989617
+1296,38-18,Bathurst Street,King Road,15th Sideroad / Bloomington Road,38,Active,38,18,CE,CE,CE,2,Regional Road,38-16,38-20,4,York Region,2086.92963046834
+1297,88-32,Baseline Road,Woodbine Avenue,Warden Avenue,8A,Active,88,32,NO,NO,NO,2,Regional Road,Start,88-34,2,York Region,2130.05290669643
+1298,18-90,Park Road - Highway 48 Interchange,Park Road,Highway 48,18,Active,18,90,NO,NO,NO,3,Channelized Right Turn Lane,Start,End,1,York Region,408.743436722134
+1299,65-03,Warden Avenue,14th Avenue / Alden Road,Highway 407,65,Active,65,3,SE,SE,SE,2,Regional Road,65-02,65-04,4,York Region,836.326000064662
+1300,53-08,Dufferin Street,Rutherford Road,Major Mackenzie Drive West,53,Active,53,8,SW,SW,SW,2,Regional Road,53-06,53-10,2,York Region,2094.44668810559
+1301,38-06S,Bathurst Street Southbound,Carrville Road / Rutherford Road,Richmond Hill-Vaughan Border,38,Active,38,6,SW,SW,SW,1,Regional Road,38-08,38-06S,2,York Region,2100.47601400625
+1302,30-18,York/Durham Line,Bethesda Sideroad,Bloomington Road,30,Active,30,18,SE,SE,SE,3,Regional Road,30-16,End,2,York Region,2309.34565117309
+1303,74-30,Vivian Road,Mulock Drive,Woodbine Avenue,74,Active,74,30,CE,CE,CE,3,Regional Road,74-29,74-32,4,York Region,1110.36420664265
+1304,06-22,Keele Street,16th Sideroad,17th Sideroad,6,Active,6,22,CE,CE,CE,3,Regional Road,06-20,06-24,2,York Region,2058.88356965308
+1305,08-18,Woodbine Avenue,Bethesda Sideroad,Bloomington Road,8,Active,8,18,CE,CE,CE,2,Regional Road,08-16,08-20,3,York Region,2093.32060884751
+1306,24-10,Highway 50,Major Mackenzie Drive West,Nashville Road,24,Active,24,10,,,SW,,Regional Road,,,4,Part Owner,2075.18647472324
+1307,27-24,Highway 27,17th Sideroad,18th Sideroad,27,Active,27,24,CE,CE,CE,2,Regional Road,27-22,27-26,2,York Region,2076.73856662946
+1308,68-02,Markham Road,Denison Street,14th Avenue,68,Active,68,2,SE,SE,SE,2,Regional Road,68-01,68-03,6,York Region,1319.23562754897
+1309,55-24,Jane Street,17th Sideroad,18th Sideroad / Lloydtown/Aurora Road,55,Active,55,24,CE,CE,CE,3,Regional Road,55-22,55-25,2,York Region,2059.0946838401
+1310,31-25W,Davis Drive Westbound,Davis Drive West / Yonge Street,Main Street North / Main Street South,31,Active,31,25,CE,CE,CE,2,Regional Road,31-24,31-26,2,York Region,1641.5064550778
+1311,07-22,Highway 7,Langstaff Road,Bathurst Street,7,Active,7,22,SW,SW,SW,1,Regional Road,07-21,07-24,7,York Region,1581.91668138419
+1312,12-16,Leslie Street,Stouffville Road,Bethesda Sideroad,12,Active,12,16,CE,CE,CE,4,Regional Road,12-14,12-18,2,York Region,1960.42366079576
+1313,72-16,Langstaff Road,Highway 400,Jane Street,72,Active,72,16,SW,SW,SW,2,Regional Road,72-15,72-20,5,York Region,1271.03265862582
+1314,71-21E,Centre Street Eastbound,Highway 407,Dufferin Street,71,Active,71,21,SW,SW,SW,,Regional Road,71-19E,71-22E,2,Province of Ontario,488.968605164697
+1315,56-25,Weston Road,18th Sideroad,Lloydtown/Aurora Road,56,Active,56,25,CE,CE,CE,3,Regional Road,56-24,56-26,2,York Region,821.004321104047
+1316,12-20,Leslie Street,Bloomington Road,Vandorf Sideroad,12,Active,12,20,CE,CE,CE,3,Regional Road,12-18,12-22,2,York Region,2258.2881186056
+1317,38-35,Bathurst Street,Highway 11,Holland Landing Road,38,Active,38,35,NO,NO,NO,3,Regional Road,38-34,38-36,2,York Region,118.839496146289
+1318,65-04,Warden Avenue,Highway 407,Highway 7,65,Active,65,4,SE,SE,SE,2,Regional Road,65-03,65-06,4,York Region,1210.67866596994
+1319,38-22,Bathurst Street,16th Sideroad / Henderson Drive,Wellington Street West,38,Active,38,22,CE,CE,CE,2,Regional Road,38-20,38-24,4,York Region,2072.6563509433
+1320,18-48,Park Road,Frog Street,Smith Boulevard,18,Active,18,48,NO,NO,NO,3,Regional Road,18-46,18-50,2,York Region,1443.69607605686
+1321,07-29M,Highway 7 Rapidway,Leslie Street,Highway 404,,Active,7,29,SE,SE,SE,1,Rapidway,07-28M,07-30M,2,Metrolinx,964.038083179281
+1322,06-18,Keele Street,King Road,15th Sideroad,6,Active,6,18,CE,CE,CE,3,Regional Road,06-16,06-20,2,York Region,2044.46164787544
+1323,11-08,King Road,10th Concession,Highway 27,11,Active,11,8,SW,SW,SW,1,Regional Road,11-06,11-10,2,York Region,2020.06151034473
+1324,79-38,Old Homestead Road,McCowan Road,Valley View Drive,79,Active,79,38,NO,NO,NO,3,Regional Road,79-36,79-40,2,York Region,2033.84783909773
+1325,72-14,Langstaff Road,Pine Valley Drive,Weston Road,72,Active,72,14,SW,SW,SW,2,Regional Road,72-12,72-15,5,York Region,2168.95494511966
+1326,15-36,Aurora Road,Kennedy Road,McCowan Road,15,Active,15,36,CE,CE,CE,3,Regional Road,15-34,15-38,2,York Region,2114.43903964359
+1327,31-16,Davis Drive West,Exit 55,Jane Street,31,Active,31,16,CE,CE,CE,1,Regional Road,Start,31-18,5,York Region,663.008095370342
+1328,08-90,Woodbine Avenue - Green Lane East Ramp,Woodbine Avenue,Green Lane East,8,Active,8,90,NO,NO,NO,2,Channelized Right Turn Lane,Start,End,1,York Region,409.192703670622
+1329,65-06,Warden Avenue,Highway 7,16th Avenue,65,Active,65,6,SE,SE,SE,2,Regional Road,65-04,65-08,5,York Region,2059.10644523426
+1330,06-20,Keele Street,15th Sideroad,16th Sideroad,6,Active,6,20,CE,CE,CE,3,Regional Road,06-18,06-22,2,York Region,2063.94725321663
+1331,53-22,Dufferin Street,16th Sideroad,Wellington Street West,53,Active,53,22,CE,CE,CE,2,Regional Road,53-20,53-24,2,York Region,2103.7307420872
+1332,07-24W,Highway 7 Westbound,Yonge Street,Bathurst Street,7,Active,7,24,SW,SW,SW,1,Regional Road,07-26W,07-22,3,York Region,2225.15480025527
+1333,26-26,St Johns Sideroad,Yonge Street,Bayview Avenue,26,Active,26,26,CE,CE,CE,2,Regional Road,26-24,26-28,3,York Region,2023.27248074104
+1334,73-18,Rutherford Road,Jane Street,Keele Street,73,Active,73,18,SW,SW,SW,1,Regional Road,73-16,73-20,5,York Region,2074.93195485358
+1335,74-42,Vivian Road,Ninth Line,York/Durham Line,74,Active,74,42,CE,CE,CE,4,Regional Road,74-40,End,2,York Region,1048.23130229953
+1336,09-52,High Street,Highway 48,Dalton Road / McDonough Avenue,9,Active,9,52,NO,NO,NO,3,Regional Road,Start,End,2,York Region,1239.79543301819
+1337,69-09,Ninth Line,Donald Cousens Parkway,Major Mackenzie Drive East,69,Active,69,9,SE,SE,SE,2,Regional Road,69-08,69-10,4,York Region,1185.78366808779
+1338,19-29,Green Lane East,Leslie Street,Highway 404,19,Active,19,29,NO,CE,NO,2,Regional Road,19-28,19-30,5,York Region,1091.33012105733
+1339,16-20,Lloydtown/Aurora Road,Keele Street,18th Sideroad / Dufferin Street,16,Active,16,20,CE,CE,CE,3,Regional Road,16-18,End,2,York Region,2415.40383283046
+1340,12-02,Don Mills Road,Steeles Avenue East,John Street / Leslie Street,12,Active,12,2,SE,SE,SE,2,Regional Road,Start,12-03,5,York Region,1497.71094623897
+1341,38-14,Bathurst Street,Gamble Road,King Vaughan Road / Milos Road,38,Active,38,14,SW,SW,SW,2,Regional Road,38-12,38-16,5,York Region,2088.44265232879
+1342,27-16,Highway 27,King Vaughan Road,King Road,27,Active,27,16,SW,SW,SW,2,Regional Road,27-14,27-18,2,York Region,2050.35674550478
+1343,03-12,Kennedy Road,Elgin Mills Road East,19th Avenue,3,Active,3,12,SE,SE,SE,3,Regional Road,03-10,03-14,2,York Region,2038.22097622047
+1344,15-92,Aurora Road - Woodbine Avenue Ramp,Aurora Road,Woodbine Avenue,15,Active,15,92,CE,CE,CE,2,Channelized Right Turn Lane,Start,End,1,York Region,217.699870816759
+1345,95-08,Steeles Avenue West,Highway 427,Highway 27,95,Active,95,8,,,SW,0,Regional Road,95-07,95-10,4,Toronto,1420.80609363257
+1346,30-02,York/Durham Line,Steeles Avenue East,14th Avenue,30,Active,30,2,SE,SE,SE,3,Regional Road,Start,30-04,3,York Region,2037.22537728172
+1347,65-01,Warden Avenue,Steeles Avenue East,Denison Street,65,Active,65,1,SE,SE,SE,2,Regional Road,Start,65-02,5,York Region,885.003398468632
+1348,38-06M,Bathurst Street Rapidway,Richmond Hill-Vaughan Border,Carrville Road / Rutherford Road,38,Active,38,6,SW,SW,SW,1,Rapidway,38-04M,End,2,York Region,308.291551493911
+1349,40-40,Bloomington Road,Highway 48,Ninth Line,40,Active,40,40,CE,CE,CE,2,Regional Road,40-38,40-42,2,York Region,2409.46493156265
+1350,69-90,Box Grove Bypass,Box Grove Collector Road / Donald Cousens Parkway,14th Avenue,69,Active,69,90,SE,SE,SE,2,Regional Road,Start,69-91,4,York Region,580.570801084377
+1351,15-40,Aurora Road,Highway 48,Ninth Line,15,Active,15,40,CE,CE,CE,3,Regional Road,15-38,15-42,2,York Region,2090.21399380321
+1352,81-50,Weirs Sideroad,Smith Boulevard,Old Homestead Road,81,Active,81,50,NO,NO,NO,3,Regional Road,81-48,End,2,York Region,1457.50983588571
+1353,38-20,Bathurst Street,15th Sideroad / Bloomington Road,16th Sideroad / Henderson Drive,38,Active,38,20,CE,CE,CE,2,Regional Road,38-18,38-22,4,York Region,2050.39772808607
+1354,40-26,Bloomington Road,Yonge Street,Bayview Avenue,40,Active,40,26,CE,CE,CE,2,Regional Road,40-24,40-28,2,York Region,1965.79811143911
+1355,38-91,Bathurst Street - Major Mackenzie Drive Ramp,Bathurst Street,Major Mackenzie Drive West,38,Active,38,91,SW,SW,SW,2,Channelized Right Turn Lane,Start,End,1,York Region,190.947006019131
+1356,55-06,Jane Street,Langstaff Road,Rutherford Road,55,Active,55,6,SW,SW,SW,2,Regional Road,55-04,55-08,5,York Region,2073.01822431502
+1357,27-10,Highway 27,Nashville Road,Islington Avenue,27,Active,27,10,SW,SW,SW,2,Regional Road,27-09,27-12,3,York Region,573.412096399529
+1358,07-18E,Highway 7 Eastbound,Jane Street,Keele Street,7,Active,7,18,SW,SW,SW,1,Regional Road,07-16E,07-19E,3,York Region,2160.66022194718
+1359,69-12,Ninth Line,Elgin Mills Road East,19th Avenue,69,Active,69,12,SE,SE,SE,2,Regional Road,69-10,69-14,2,York Region,1992.71983599911
+1360,34-06,Bayview Avenue,Highway 7,16th Avenue,34,Active,34,6,SE,SE,SE,2,Regional Road,34-04,34-08,6,York Region,1997.53899572216
+1361,06-06,Keele Street,Langstaff Road,Rutherford Road,6,Active,6,6,SW,SW,SW,2,Regional Road,06-04,06-08,5,York Region,2011.63977434434
+1362,07-24M,Highway 7 Rapidway,Bathurst Street,Yonge Street,7,Active,7,24,SW,SW,SW,1,Rapidway,07-22,07-26M,1,Metrolinx,2205.83726928417
+1363,01-27S,Yonge Street Southbound,Eagle Street / Eagle Street West,Mulock Drive,1,Active,1,27,CE,CE,CE,2,Regional Road,01-28S,01-26S,2,York Region,1058.5508868877
+1364,73-30,16th Avenue,Highway 404,Woodbine Avenue,73,Active,73,30,SE,SE,SE,2,Regional Road,73-29,73-32,5,York Region,1061.32747342738
+1365,24-01,Highway 50,Steeles Avenue,Highway 407,24,Active,24,1,,,SW,,Regional Road,,,4,Part Owner,157.646971091897
+1366,38-03S,Bathurst Street Southbound,Highway 407,Centre Street,38,Active,38,3,SW,SW,SW,1,Regional Road,38-02,38-04,2,York Region,1906.33828238082
+1367,73-29,16th Avenue,Leslie Street,Highway 404,73,Active,73,29,SE,SE,SE,2,Regional Road,73-28,73-30,5,York Region,972.946303243988
+1368,06-16,Keele Street,King Vaughan Road,King Road,6,Active,6,16,SW,SW,SW,3,Regional Road,06-14,06-18,4,York Region,2036.35634370698
+1369,09-53,Dalton Road,Baseline Road,Black River Road,9,Active,9,53,NO,NO,NO,3,Regional Road,Start,09-54,4,York Region,787.797379316144
+1370,73-38,16th Avenue,McCowan Road,Highway 48 / Main Street Markham,73,Active,73,38,SE,SE,SE,2,Regional Road,73-36,73-40,5,York Region,2145.2815787931
+1371,67-12,McCowan Road,Elgin Mills Road East,19th Avenue,67,Active,67,12,SE,SE,SE,3,Regional Road,67-10,67-14,2,York Region,2025.65534963192
+1372,14-15,King Vaughan Road,Weston Road,Highway 400,14,Active,14,15,SW,SW,SW,3,Regional Road,14-14,14-16,2,York Region,983.100062372657
+1373,12-08,Leslie Street,16th Avenue,Major Mackenzie Drive East,12,Active,12,8,SE,SE,SE,2,Regional Road,12-06,12-10,5,York Region,2035.33140749037
+1374,07-30W,Highway 7 Westbound,Highway 404,Woodbine Avenue,7,Active,7,30,SE,SE,SE,1,Regional Road,07-29W,07-32W,3,York Region,1103.47845949781
+1375,15-29,Wellington Street East,Leslie Street,Aurora Road,15,Active,15,29,CE,CE,CE,2,Regional Road,15-28,15-30,5,York Region,1026.06282588488
+1376,15-34,Aurora Road,Warden Avenue,Kennedy Road,15,Active,15,34,CE,CE,CE,2,Regional Road,15-32,15-36,2,York Region,2006.57714515555
+1377,72-06,Langstaff Road,Highway 50,Huntington Road,72,Active,72,6,SW,SW,SW,2,Regional Road,Start,72-08,2,York Region,632.807656243191
+1378,69-02,Ninth Line,Steeles Avenue East,Donald Cousens Parkway,69,Active,69,2,SE,SE,SE,2,Regional Road,Start,48-02,2,York Region,617.154845309981
+1379,31-28E,Davis Drive Eastbound,Lundys Lane / Prospect Street,Leslie Street,31,Active,31,28,CE,CE,CE,2,Regional Road,31-26,31-29,2,York Region,1898.48338627379
+1380,14-28,Stouffville Road,Bayview Avenue,Leslie Street,14,Active,14,28,SE,SE,SE,2,Regional Road,14-26,14-29,2,York Region,2226.06502310744
+1381,69-08,Ninth Line,16th Avenue,Donald Cousens Parkway,69,Active,69,8,SE,SE,SE,2,Regional Road,69-06,69-09,4,York Region,839.825241158672
+1382,18-50,Park Road,Smith Boulevard,Old Homestead Road,18,Active,18,50,NO,NO,NO,3,Regional Road,18-48,18-52,2,York Region,1438.08836557363
+1383,30-08,York/Durham Line,16th Avenue,Major Mackenzie Drive East,30,Active,30,8,SE,SE,SE,2,Regional Road,30-06,30-10,2,York Region,1994.40684499709
+1384,73-22,Rutherford Road,Dufferin Street,Bathurst Street / Carrville Road,73,Active,73,22,SW,SW,SW,2,Regional Road,73-20,73-24,4,York Region,2040.72373736682
+1385,73-26,16th Avenue,Carrville Road / Yonge Street,Bayview Avenue,73,Active,73,26,SE,SE,SE,2,Regional Road,73-24,73-28,5,York Region,1848.83269234462
+1386,78-46,Morton Avenue,Metro Road South / The Queensway South,Pollock Road / Woodbine Avenue,78,Active,78,46,NO,NO,NO,3,Regional Road,Start,End,2,York Region,1334.31264189466
+1387,55-25,Jane Street,18th Sideroad / Lloydtown/Aurora Road,Kettleby Road / Lloydtown/Aurora Road,55,Active,55,25,CE,CE,CE,3,Regional Road,55-24,55-26,2,York Region,1063.73924915376
+1388,71-19M,Centre Street Rapidway,Highway 7,Highway 407,71,Active,71,19,SW,SW,SW,1,Rapidway,Start,71-21M,1,Metrolinx,186.594740996376
+1389,56-06,Weston Road,Langstaff Road,Rutherford Road,56,Active,56,6,SW,SW,SW,2,Regional Road,56-04,56-08,5,York Region,2055.30042534167
+1390,38-93,Bathurst Street - Green Lane West Interchange,Bathurst Street,Green Lane West,38,Active,38,93,NO,NO,NO,2,Channelized Right Turn Lane,Start,End,1,York Region,412.141888717955
+1391,03-47,Kennedy Road,Pollock Road,Highway 404 Extension,3,Active,3,47,NO,NO,NO,3,Regional Road,03-46,03-48,2,York Region,1254.62520989736
+1392,34-03,Bayview Avenue,John Street,Highway 407,34,Active,34,3,SE,SE,SE,2,Regional Road,34-02,34-04,5,York Region,2208.97565102209
+1393,08-98,Woodbine Avenue - Aurora Road Ramp,Woodbine Avenue,Aurora Road,8,Active,8,98,CE,CE,CE,2,Channelized Right Turn Lane,Start,End,1,York Region,178.142382823769
+1394,01-06M,Yonge Street Rapidway,Highway 7,16th Avenue / Carrville Road,1,Active,1,6,SE,SE,SE,1,Rapidway,01-04,01-08M,2,Metrolinx,1927.29914137891
+1395,03-06,Kennedy Road,Highway 7,16th Avenue,3,Active,3,6,SE,SE,SE,2,Regional Road,03-04,03-08,4,York Region,2217.62639925208
+1396,07-14W,Highway 7 Westbound,Weston Road,Pine Valley Drive,7,Active,7,14,SW,SW,SW,1,Regional Road,07-15W,07-12W,3,York Region,2170.22559335517
+1397,72-15,Langstaff Road,Weston Road,Highway 400,72,Active,72,15,SW,SW,SW,2,Regional Road,72-14,72-16,5,York Region,681.335621944737
+1398,77-30,Queensville Sideroad,Highway 404,Woodbine Avenue,77,Active,77,30,NO,NO,NO,3,Regional Road,77-29,End,2,York Region,976.652067017572
+1399,07-92,Highway 7 - Yonge Street Interchange,Highway 7,Yonge Street,7,Active,7,92,SE,SE,SE,2,Regional Road,Start,End,4,York Region,503.094212457701
+1400,49-22,Teston Road,Dufferin Street,Bathurst Street / Elgin Mills Road West,49,Active,49,22,SW,SW,SW,2,Regional Road,49-21,49-24,2,York Region,2033.6001553581
+1401,07-36,Highway 7,Kennedy Road,McCowan Road,7,Active,7,36,SE,SE,SE,2,Regional Road,07-34,07-38,6,York Region,1623.02728536989
+1402,27-14,Highway 27,Kirby Road,King Vaughan Road,27,Active,27,14,SW,SW,SW,2,Regional Road,27-12,27-16,2,York Region,2071.65003887713
+1403,69-18,Ninth Line,Bethesda Sideroad,Bloomington Road,69,Active,69,18,SE,SE,SE,3,Regional Road,69-16,69-20,2,York Region,2102.09217827277
+1404,49-04,Nashville Road,Highway 50,Cold Creek Road,49,Active,49,4,SW,SW,SW,3,Regional Road,Start,49-06,2,York Region,55.4901923487198
+1405,01-36,Highway 11,Bathurst Street,King-Simcoe Border,1,Active,1,36,CE,CE,CE,2,Regional Road,01-34,End,5,York Region,2362.03533041285
+1406,12-18,Leslie Street,Bethesda Sideroad,Bloomington Road,12,Active,12,18,CE,CE,CE,4,Regional Road,12-16,12-20,2,York Region,2093.54177663982
+1407,31-28W,Davis Drive Westbound,Lundys Lane / Prospect Street,Leslie Street,31,Active,31,28,CE,CE,CE,2,Regional Road,31-26,31-29,2,York Region,1903.13205045079
+1408,31-22,Davis Drive West,Dufferin Street / Glenville Road,Bathurst Street,31,Active,31,22,CE,CE,CE,1,Regional Road,31-21,31-24,5,York Region,1354.12291729273
+1409,08-40,Woodbine Avenue,Holborn Road,Boag Road,8,Active,8,40,NO,NO,NO,3,Regional Road,08-38,08-41,2,York Region,2050.3124314447
+1410,71-44,14th Avenue,Reesor Road,Eleventh Concession,71,Active,71,44,SE,SE,SE,3,Regional Road,71-43,71-46,2,York Region,2064.87514716852
+1411,17-04,Islington Avenue,Highway 7,Langstaff Road,17,Active,17,4,SW,SW,SW,2,Regional Road,17-02,17-06,4,York Region,2701.19618359698
+1412,95-36,Steeles Avenue East,Kennedy Road,McCowan Road,95,Active,95,36,,,SE,0,Regional Road,95-34,95-38,4,Toronto,2691.26261797607
+1413,07-12W,Highway 7 Westbound,Pine Valley Drive,Islington Avenue,7,Active,7,12,SW,SW,SW,1,Regional Road,07-14W,07-11,3,York Region,1376.51572627725
+1414,79-32,Old Homestead Road,Woodbine Avenue,Warden Avenue,79,Active,79,32,NO,NO,NO,3,Regional Road,79-30,79-34,2,York Region,2133.79623097182
+1415,55-10,Jane Street,Major Mackenzie Drive West,Teston Road,55,Active,55,10,SW,SW,SW,2,Regional Road,55-08,55-12,5,York Region,2134.73187459959
+1416,67-03,McCowan Road,14th Avenue,Highway 407,67,Active,67,3,SE,SE,SE,1,Regional Road,67-02,67-04,6,York Region,802.113942888722
+1417,25-20,Major Mackenzie Drive West,Keele Street,Dufferin Street,25,Active,25,20,SW,SW,SW,2,Regional Road,25-18,25-22,4,York Region,2132.65048423177
+1418,53-14,Dufferin Street,Kirby Road,King Vaughan Road,53,Active,53,14,SW,SW,SW,2,Regional Road,53-12,53-16,2,York Region,2063.10429785519
+1419,07-14M,Highway 7 Rapidway,Pine Valley Drive,Weston Road,7,Active,7,14,SW,SW,SW,1,Rapidway,07-12M,07-15M,2,Metrolinx,2143.7543606023
+1420,06-10,Keele Street,Major Mackenzie Drive West,Teston Road,6,Active,6,10,SW,SW,SW,2,Regional Road,06-08,06-12,4,York Region,2084.48830780384
+1421,65-30,Warden Avenue,Davis Drive,Herald Road,65,Active,65,30,NO,NO,NO,3,Regional Road,65-28,65-32,2,York Region,2051.27379200642
+1422,65-10,Warden Avenue,Major Mackenzie Drive East,Elgin Mills Road East,65,Active,65,10,SE,SE,SE,3,Regional Road,65-08,65-12,2,York Region,2022.13304035823
+1423,07-34,Highway 7,Warden Avenue,Kennedy Road,7,Active,7,34,SE,SE,SE,1,Regional Road,07-32,07-36,6,York Region,2546.84827715602
+1424,30-06,York/Durham Line,Highway 407,16th Avenue,30,Active,30,6,SE,SE,SE,3,Regional Road,30-04,30-08,2,York Region,1927.68973438472
+1425,07-26W,Highway 7 Westbound,Bayview Avenue,Yonge Street,7,Active,7,26,SE,SE,SE,1,Regional Road,07-24W,07-28W,3,York Region,1913.42508491718
+1426,71-22M,Centre Street Rapidway,Dufferin Street,Bathurst Street,71,Active,71,22,SW,SW,SW,1,Rapidway,Start,End,2,Metrolinx,2069.3023279739
+1427,32-28,Ravenshoe Road,2nd Concession Road,Leslie Street / The Queensway South,32,Active,32,28,NO,NO,NO,3,Regional Road,32-26,32-30,2,York Region,2079.91782413457
+1428,07-18W,Highway 7 Westbound,Jane Street,Keele Street,7,Active,7,18,SW,SW,SW,1,Regional Road,07-16W,07-19W,3,York Region,2147.71864658877
+1429,38-12,Bathurst Street,Elgin Mills Road West / Teston Road,Gamble Road,38,Active,38,12,SW,SW,SW,2,Regional Road,38-10,38-14,5,York Region,2067.65509841233
+1430,55-12,Jane Street,Teston Road,Kirby Road,55,Active,55,12,SW,SW,SW,3,Regional Road,55-10,55-14,2,York Region,2025.73521564213
+1431,08-12,Woodbine Avenue,Elgin Mills Road East,19th Avenue,8,Active,8,12,SE,SE,SE,2,Regional Road,08-10,08-14,4,York Region,2351.59238844146
+1432,07-21,Highway 7,Dufferin Street,Langstaff Road,7,Active,7,21,SW,SW,SW,1,Regional Road,07-20,07-22,6,York Region,528.049494776475
+1433,07-95,Highway 7 - Highway 50 Ramp,Highway 7,Highway 50,7,Active,7,95,SW,SW,SW,1,Channelized Right Turn Lane,Start,End,1,York Region,375.641019422532
+1434,11-04,King Road,Albion Vaughan Road / Caledon King Town Line South,11th Concession,11,Active,11,4,SW,SW,SW,2,Regional Road,Start,11-06,2,York Region,1467.09561125387
+1435,11-20,King Road,Keele Street,Dufferin Street,11,Active,11,20,SW,SW,SW,2,Regional Road,11-18,11-22,5,York Region,1951.57233645117
+1436,13-38,Mount Albert Road,McCowan Road,Highway 48,13,Active,13,38,NO,NO,NO,2,Regional Road,13-36,13-39,2,York Region,1975.99030316394
+1437,73-34,16th Avenue,Warden Avenue,Kennedy Road,73,Active,73,34,SE,SE,SE,2,Regional Road,73-32,73-36,5,York Region,2054.60389707425
+1438,67-02,McCowan Road,Denison Street,14th Avenue,67,Active,67,2,SE,SE,SE,1,Regional Road,67-01,67-03,6,York Region,867.584153919135
+1439,72-12,Langstaff Road,Islington Avenue,Pine Valley Drive,72,Active,72,12,SW,SW,SW,2,Regional Road,72-08,72-14,2,York Region,655.799561372856
+1440,27-18,Highway 27,King Road,15th Sideroad,27,Active,27,18,CE,CE,CE,2,Regional Road,27-16,27-20,3,York Region,2087.57490119186
+1441,01-26S,Yonge Street Southbound,Mulock Drive,St Johns Sideroad,1,Active,1,26,CE,CE,CE,2,Regional Road,01-27,01-24,2,York Region,2078.77287672429
+1442,07-24E,Highway 7 Eastbound,Bathurst Street,Yonge Street,7,Active,7,24,SW,SW,SW,1,Regional Road,07-22,07-26,3,York Region,2227.61631591399
+1443,40-32,Bloomington Road,Woodbine Avenue,Warden Avenue,40,Active,40,32,CE,CE,CE,2,Regional Road,40-30,40-34,2,York Region,2106.74770266294
+1444,74-24,Mulock Drive,Bathurst Street,Yonge Street,74,Active,74,24,CE,CE,CE,2,Regional Road,Start,74-26,5,York Region,1702.17636471795
+1445,40-42,Bloomington Road,Ninth Line,York/Durham Line,40,Active,40,42,CE,CE,CE,2,Regional Road,40-40,End,2,York Region,2280.38812668561
+1446,03-46,Kennedy Road,Glenwoods Avenue,Pollock Road,3,Active,3,46,NO,NO,NO,3,Regional Road,03-44,03-47,2,York Region,2035.82199364596
+1447,12-10,Leslie Street,Major Mackenzie Drive East,Elgin Mills Road East,12,Active,12,10,SE,SE,SE,2,Regional Road,12-08,12-12,5,York Region,2036.75662803357
+1448,07-16W,Highway 7 Westbound,Jane Street,Highway 400,7,Active,7,16,SW,SW,SW,1,Regional Road,07-15,07-18W,3,York Region,1275.24149374434
+1449,25-30,Major Mackenzie Drive East,Highway 404,Woodbine Avenue,25,Active,25,30,SE,SE,SE,2,Regional Road,25-29,25-32,5,York Region,1052.59660103515
+1450,69-03,Ninth Line,Copper Creek Drive,Highway 407,69,Active,69,3,SE,SE,SE,2,Regional Road,69-91,69-04,4,York Region,692.926495480676
+1451,34-16,Bayview Avenue,Stouffville Road,Bethesda Sideroad,34,Active,34,16,CE,CE,CE,2,Regional Road,34-14,34-18,2,York Region,2191.22485791903
+1452,25-28,Major Mackenzie Drive East,Bayview Avenue,Leslie Street,25,Active,25,28,SE,SE,SE,2,Regional Road,25-26,25-29,5,York Region,1998.95891777065
+1453,01-08N,Yonge Street Northbound,16th Avenue / Carrville Road,Major Mackenzie Drive East / Major Mackenzie Drive West,1,Active,1,8,SE,SE,SE,2,Regional Road,01-06N,01-12N,2,York Region,2128.01408807172
+1454,38-28,Bathurst Street,Mulock Drive,Davis Drive West,38,Active,38,28,CE,CE,CE,2,Regional Road,38-26,38-30,4,York Region,2140.21421965495
+1455,57-04,Pine Valley Drive,Highway 7,Langstaff Road,57,Active,57,4,SW,SW,SW,2,Regional Road,57-02,57-08,4,York Region,2070.99533041791
+1456,24-04,Highway 50,Highway 7,Langstaff Road,24,Active,24,4,,,SW,,Regional Road,,,4,Part Owner,2139.69908815462
+1457,48-05,Donald Cousens Parkway,Box Grove Collector Road,Highway 7,48,Active,48,5,SE,SE,SE,3,Regional Road,48-02,48-06,4,York Region,883.123932761384
+1458,67-38,McCowan Road,Queensville Sideroad,Holborn Road,67,Active,67,38,NO,NO,NO,3,Regional Road,67-36,67-40,2,York Region,2044.87756316287
+1459,08-89,Woodbine Avenue - Davis Drive Interchange,Woodbine Avenue,Davis Drive,8,Active,8,89,NO,NO,NO,2,Channelized Right Turn Lane,Start,End,1,York Region,390.487119514188
+1460,07-26E,Highway 7 Eastbound,Yonge Street,Bayview Avenue,7,Active,7,26,SE,SE,SE,1,Regional Road,07-24E,07-28E,3,York Region,1906.04719361067
+1461,34-14,Bayview Avenue,19th Avenue,Stouffville Road,34,Active,34,14,SE,CE,SE,2,Regional Road,34-12,34-16,2,York Region,2246.87577815792
+1462,72-08,Langstaff Road,Highway 427,Highway 27,72,Active,72,8,SW,SW,SW,2,Regional Road,72-07,72-12,2,York Region,953.683756701589
+1463,53-06,Dufferin Street,Langstaff Road,Rutherford Road,53,Active,53,6,SW,SW,SW,2,Regional Road,53-05,53-08,5,York Region,2092.43499802866
+1464,95-46,Steeles Avenue East,11th Concession,York/Durham Line,95,Active,95,46,,,SE,0,Regional Road,95-44,END,4,Toronto,616.728255655108
+1465,32-52,Ravenshoe Road,Concession 5,Weirs Sideroad,32,Active,32,52,NO,NO,NO,3,Regional Road,32-48,32-54,2,York Region,2527.98437391196
+1466,12-27,Leslie Street,Mulock Drive,Gorham Street,12,Active,12,27,CE,CE,CE,2,Regional Road,12-26,12-28,5,York Region,1057.00595100932
+1467,07-19M,Highway 7 Rapidway,Keele Street,Centre Street / North Rivermede Road,7,Active,7,19,SW,SW,SW,1,Rapidway,07-18M,07-20,2,Metrolinx,1612.35780568232
+1468,25-22,Major Mackenzie Drive West,Dufferin Street,Bathurst Street,25,Active,25,22,SW,SW,SW,2,Regional Road,25-20,25-24,4,York Region,2055.55314609756
+1469,68-03,Markham Road,14th Avenue,Highway 407,68,Active,68,3,SE,SE,SE,2,Regional Road,68-02,68-04,4,York Region,826.329176750806
+1470,07-38,Highway 7,McCowan Road,Main Street Markham,7,Active,7,38,SE,SE,SE,2,Regional Road,07-36,07-40,5,York Region,2130.34071012399
+1471,49-26,Elgin Mills Road East,Elgin Mills Road West / Yonge Street,Bayview Avenue,49,Active,49,26,SE,SE,SE,2,Regional Road,49-24,49-28,5,York Region,1811.19732929021
+1472,07-08,Highway 7,Highway 427,Highway 27,7,Active,7,8,SW,SW,SW,1,Regional Road,07-07,07-10,7,York Region,1060.78327588127
+1473,07-32E,Highway 7 Eastbound,Woodbine Avenue,Warden Avenue,7,Active,7,32,SE,SE,SE,1,Regional Road,07-30E,07-34,3,York Region,2094.5419653922
+1474,14-16,King Vaughan Road,Highway 400,Jane Street,14,Active,14,16,SW,SW,SW,3,Regional Road,14-15,14-18,2,York Region,1009.68256722516
+1475,73-12,Rutherford Road,Islington Avenue,Pine Valley Drive,73,Active,73,12,SW,SW,SW,2,Regional Road,73-11,73-14,5,York Region,1527.58558844393
+1476,38-26,Bathurst Street,Old Bathurst Street,King-Newmarket Border,38,Active,38,26,CE,CE,CE,2,Regional Road,38-24,38-28,4,York Region,2260.97204035006
+1477,26-22,18th Sideroad,Dufferin Street / Lloydtown/Aurora Road,Bathurst Street / St Johns Sideroad,26,Active,26,22,CE,CE,CE,3,Regional Road,Start,26-24,2,York Region,1997.40308069008
+1478,34-26,Bayview Avenue,St Johns Sideroad,Mulock Drive,34,Active,34,26,CE,CE,CE,2,Regional Road,34-24,34-27,4,York Region,1987.63232449684
+1479,25-42,Major Mackenzie Drive East,Ninth Line,Reesor Road,25,Active,25,42,SE,SE,SE,2,Regional Road,25-41,25-44,2,York Region,2071.92344503582
+1480,69-22,Ninth Line,Hillsdale Drive,Aurora Road,69,Active,69,22,CE,CE,CE,3,Regional Road,69-20,End,2,York Region,2452.85844908964
+1481,08-08,Woodbine Avenue,16th Avenue,Major Mackenzie Drive East,8,Active,8,8,SE,SE,SE,2,Regional Road,08-06,08-10,5,York Region,2033.22855828505
+1482,77-28,Queensville Sideroad,2nd Concession Road,Leslie Street,77,Active,77,28,NO,NO,NO,3,Regional Road,77-26,77-29,2,York Region,2048.09234168272
+1483,73-20,Rutherford Road,Keele Street,Dufferin Street,73,Active,73,20,SW,SW,SW,2,Regional Road,73-18,73-22,5,York Region,2134.03014890633
+1484,79-44,Old Homestead Road,Highway 48,Park Road,79,Active,79,44,NO,NO,NO,3,Regional Road,79-40,79-48,2,York Region,3110.30617857111
+1485,31-26E,Davis Drive Eastbound,Main Street North / Main Street South,Lundys Lane / Prospect Street,31,Active,31,26,CE,CE,CE,2,Regional Road,31-25,31-28,2,York Region,588.416386820513
+1486,03-38,Kennedy Road,Queensville Sideroad,Holborn Road,3,Active,3,38,NO,NO,NO,3,Regional Road,03-36,03-40,2,York Region,2040.0620107059
+1487,07-91N,Highway 7 - Bathurst Street Interchange Northbound,Highway 7,Bathurst Street,7,Active,7,91,SW,SW,SW,1,Regional Road,Start,End,2,York Region,490.220984877133
+1488,79-35,Old Homestead Road,Kennedy Road,Highway 404 Extension,79,Active,79,35,NO,NO,NO,3,Regional Road,79-34,79-36,2,York Region,1420.16341730712
+1489,01-12N,Yonge Street Northbound,Elgin Mills Road East / Elgin Mills Road West,19th Avenue / Gamble Road,1,Active,1,12,SE,SE,SE,2,Regional Road,01-08N,01-14N,2,York Region,2118.74318775642
+1490,34-27,Bayview Avenue,Mulock Drive,Gorham Street / Water Street,34,Active,34,27,CE,CE,CE,3,Regional Road,34-26,34-28,3,York Region,1168.48582942793
+1491,72-20,Langstaff Road,Keele Street,Dufferin Street,72,Active,72,20,SW,SW,SW,2,Regional Road,72-16,72-21,4,York Region,2131.6051101337
+1492,08-03,Woodbine Avenue,Esna Park Drive / John Street,Highway 407,8,Active,8,3,SE,SE,SE,2,Regional Road,08-02,08-04,7,York Region,1780.47436648804
+1493,38-03N,Bathurst Street Northbound,Centre Street,Highway 407,38,Active,38,3,SW,SW,SW,1,Regional Road,38-02,38-04,2,York Region,1906.70177837742
+1494,11-12,King Road,8th Concession,7th Concession,11,Active,11,12,SW,SW,SW,2,Regional Road,11-10,11-14,2,York Region,2111.75846740047
+1495,40-30,Bloomington Road,Highway 404,Woodbine Avenue,40,Active,40,30,CE,CE,CE,2,Regional Road,40-29,40-32,4,York Region,542.229991458281
+1496,06-04,Keele Street,Highway 7,Langstaff Road,6,Active,6,4,SW,SW,SW,2,Regional Road,06-02,06-06,6,York Region,2060.89921394408
+1497,82-56,Victoria Road,Old Shiloh Road,Lake Ridge Road,82,Active,82,56,NO,NO,NO,3,Regional Road,82-44,End,2,York Region,2063.22456014837
+1498,55-08,Jane Street,Rutherford Road,Major Mackenzie Drive West,55,Active,55,8,SW,SW,SW,2,Regional Road,55-06,55-10,5,York Region,2090.85891606967
+1499,07-29E,Highway 7 Eastbound,Leslie Street,Highway 404,7,Active,7,29,SE,SE,SE,1,Regional Road,07-28E,07-30E,3,York Region,980.813117534958
+1500,55-20,Jane Street,15th Sideroad,16th Sideroad,55,Active,55,20,CE,CE,CE,3,Regional Road,55-18,55-22,2,York Region,2057.43014433309
+1501,65-18,Warden Avenue,Bethesda Sideroad,Bloomington Road,65,Active,65,18,SE,SE,SE,3,Regional Road,65-16,65-20,2,York Region,2068.45467840689
+1502,17-91,Islington Avenue - Rutherford Road Ramp,Islington Avenue,Rutherford Road,17,Active,17,91,SW,SW,SW,2,Channelized Right Turn Lane,17-08,73-11,1,York Region,144.016225553598
+1503,27-01,Highway 27,Steeles Avenue West,Highway 407,27,Active,27,1,SW,SW,SW,2,Regional Road,Start,27-02,6,York Region,353.086018401659
+1504,73-90,16th Avenue,16th Avenue,16th Avenue,73,Active,73,90,SE,SE,SE,1,Regional Road,Start,End,2,York Region,462.184673357378
+1505,07-19E,Highway 7 Eastbound,Keele Street,Centre Street / North Rivermede Road,7,Active,7,19,SW,SW,SW,1,Regional Road,07-18E,07-20,3,York Region,1631.60334583892
+1506,25-32,Major Mackenzie Drive East,Woodbine Avenue,Warden Avenue,25,Active,25,32,SE,SE,SE,2,Regional Road,25-30,25-34,4,York Region,2059.39467555116
+1507,31-26M,Davis Drive Rapidway,Main Street North / Main Street South,Lundys Lane / Prospect Street,31,Active,31,26,CE,CE,CE,1,Rapidway,31-25,31-28,2,Metrolinx,583.653422693341
+1508,19-26,Green Lane East,Green Lane West / Yonge Street,2nd Concession Road / Main Street North,19,Active,19,26,NO,CE,NO,2,Regional Road,19-24,19-28,4,York Region,2047.46254050243
+1509,38-24,Bathurst Street,Wellington Street West,18th Sideroad / St Johns Sideroad,38,Active,38,24,CE,CE,CE,2,Regional Road,38-22,38-26,4,York Region,2081.50640924978
+1510,26-28,St Johns Sideroad,Bayview Avenue,Leslie Street,26,Active,26,28,CE,CE,CE,3,Regional Road,26-26,26-29,2,York Region,2106.72501917292
+1511,48-06,Donald Cousens Parkway,Highway 7,16th Avenue,48,Active,48,6,SE,SE,SE,3,Regional Road,48-05,48-08,4,York Region,2188.85959203572
+1512,32-26,Ravenshoe Road,Yonge Street,2nd Concession Road,32,Active,32,26,NO,NO,NO,4,Regional Road,32-24,32-28,2,York Region,1928.60328086541
